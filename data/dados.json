@@ -1,0 +1,4006 @@
+{
+ "bairros": [
+  {
+   "nome": "Acarape",
+   "cras": [
+    "NORTE II"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 3018,
+   "familias": 71,
+   "descricao": "ACARAPE – compreende a área contida no seguinte perímetro: partindo do alinhamento da Rua Minas Gerais, no eixo do Rio Parnaíba, segue, pela via, até a Rua Parnaguá, por onde chega à Rua Espírito Santo; prossegue, por esta, em direção oeste, até o eixo do Rio Parnaíba, e, daí, até o ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).======",
+   "localidades": [
+    {
+     "nome": "Conjunto Acarape",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Aeroporto",
+   "cras": [
+    "NORTE III"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 7567,
+   "familias": 491,
+   "descricao": "AEROPORTO – compreende a área contida no seguinte perímetro: partindo do cruzamento da Av. Santos Dumont com a Rua Sergipe, segue, por esta, até a Rua Parnaguá e daí até a Av. Campo Maior; prossegue, por esta, até a Rua Anísio Pires, pela qual atinge a Av. Centenário; deste ponto, segue rumo à Av. União, depois, à Rua Primeiro de Maio, por onde segue até a Rua Pernambuco; daí, pela Rua Área Leão e novamente pela Rua Pernambuco, até a Av. Santos Dumont, pela qual retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Aeroporto",
+     "fonte": "Aglomerado Subnormal/IBGE* (Perfil dos Bairros,SEMPLAN, 2018). Não tem no doc PMT - Orçamento Popular 2014/2015",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Alegre",
+   "cras": [
+    "NORTE V"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 0,
+   "familias": 441,
+   "descricao": "ALEGRE – compreende a área contida no seguinte perímetro: partindo do encontro da Av. Josué Moura Santos com a Rua Rosana Neres, segue, por esta, até a Rua Monte Alto; por esta, atravessa a Rua Amadeus Paulo e, chegando ao limite leste da Vila Monte Alegre, segue, rumo norte até o ponto com coordenadas 4º 59’ 56,63” Sul e 42º 49’ 14,38” Oeste; daí, seguindo 977 metros, por divisa de gleba, atinge o ponto com coordenadas 4º 59’ 45,84” Sul e 42º 48’ 44,35” Oeste; depois, com 85 metros chega ao ponto com coordenadas 4º 59’ 43,71” Sul e 42º 48’ 42,59” Oeste, no contorno sul do Conjunto Jacinta Andrade; por este contorno, atinge a linha de perímetro urbano e, por esta, alcança a divisa das glebas Alegre e Aroeiras; pela citada divisa, segue até o eixo do Rio Poti; pelo curso d’água, segue até o alinhamento do limite leste da propriedade Santa Rosa; daí, alcança a Av. Josué Moura Santos, retornando ao ponto inicial. O bairro Alegre foi criado por meio da Lei nº 4.423, de 16 de julho de 2013. A sua região compreende anteriormente parte dos bairros Cidade Industrial e Santa Rosa, onde localiza-se a Vila Monte Alegre. (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Invasão Leonel Brizola",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Leonel Brizola",
+     "fonte": "Vila/ Favela/Residencial (Perfil dos Bairros,SEMPLAN, 2018) - PMT - Orçamento Popular 2014/2015",
+     "familias": 3.0
+    },
+    {
+     "nome": "Vila Leonel Brizola I e II",
+     "fonte": "Vila/ Favela/Residencial (Perfil dos Bairros,SEMPLAN, 2018) - PMT - Orçamento Popular 2014/2015",
+     "familias": 1.0
+    },
+    {
+     "nome": "Vila Monte Alegre",
+     "fonte": "Aglomerado Subnormal/IBGE* (Perfil dos Bairros,SEMPLAN, 2018). PMT -Orçamento Popular 2014/2015",
+     "familias": 436.0
+    },
+    {
+     "nome": "Loteamento Conviver Teresina",
+     "fonte": "Base CRAS.",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Alto Alegre",
+   "cras": [
+    "NORTE III"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 5389,
+   "familias": 539,
+   "descricao": "ALTO ALEGRE – compreende a área contida no seguinte perímetro: partindo do cruzamento da Rua Amarante com a Rua Castelo do Piauí, pela qual segue até a Alameda Mestre João Isidoro França; por esta, até a Rua Jean Lelones, por onde continua até a Rua Sapucaia; depois, Rua Cedro e Rua Sapucaia novamente; por esta e seu alinhamento alcança o eixo do Rio Poti, seguindo até o alinhamento da Rua Amarante; por esta, atinge o contorno do Conjunto Mocambinho e, novamente, a Rua Amarante e, daí, retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Angelim",
+   "cras": [
+    "SUL II",
+    "SUL V"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 55486,
+   "familias": 6192,
+   "descricao": "ANGELIM – Bairro que compreende a área contida no seguinte perímetro: partindo do encontro da Av. Jornalista Francisco Moraes com a Rua Nonato de Oliveira, segue, por esta, até a Av. Prefeito Wall Ferraz (BR-316); daí, rumo sul, segue até a linha de perímetro urbano anterior a expansão pela Lei 3.264, de 09 de janeiro de 2004 (referente à Gleba Angélica e contorno norte do Loteamento Inácio Soares); prossegue por este contorno e pelo limite sul do Loteamento Parque Eliane e respectivo alinhamento até o eixo do Rio Parnaíba; pelo rio, segue até o alinhamento da Rua Josias Carneiro e, por esta, retorna ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2018**).",
+   "localidades": [
+    {
+     "nome": "Vila Irmã Dulce",
+     "fonte": "Aglomerado Subnormal/IBGE* (Perfil dos Bairros,SEMPLAN, 2018).",
+     "familias": 3595.0
+    },
+    {
+     "nome": "Parque Eliana/Eliane - No Doc PMT - Orçamento Popular 2014/2015 estpa como Parque Eliane",
+     "fonte": "Conjunto habitacional/Loteamento (Perfil dos Bairros,SEMPLAN, 2018)",
+     "familias": 41.0
+    },
+    {
+     "nome": "Loteamento 07 Estrelas I, II, III, IV, V e VI",
+     "fonte": "Conjunto habitacional/Loteamento (Perfil dos Bairros,SEMPLAN, 2018)",
+     "familias": 3.0
+    },
+    {
+     "nome": "Residencial R Damásio",
+     "fonte": "Base CRAS. Não aparece no Doc PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Júlio Soares",
+     "fonte": "Base CRAS. Não aparece no Doc PMT -Orçamento Popular 2014/2015",
+     "familias": 2.0
+    },
+    {
+     "nome": "Angelim IV",
+     "fonte": "Base CRAS.Não aparece no Doc PMT -Orçamento Popular 2014/2015 Localizado após Av. José Soares.",
+     "familias": 253.0
+    },
+    {
+     "nome": "Morro dos Cegos",
+     "fonte": "Base CRAS. Não aparece no Doc PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Morro do Manoel Cabota",
+     "fonte": "Base CRAS. Não aparece no Doc PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Palitolândia",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018).",
+     "familias": 98.0
+    },
+    {
+     "nome": "Liliane",
+     "fonte": "Perfil dos Bairros,SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Vitória Popular",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018).",
+     "familias": 3.0
+    },
+    {
+     "nome": "Parque Vitória",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Parque Cidade Verde",
+     "fonte": "Vila/Favela (Perfil dos Bairros, SEMPLAN, 2018). - Ocupação Leda Napoleão",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Mario Covas",
+     "fonte": "Conjunto habitacional/Loteamento (Perfil dos Bairros,SEMPLAN, 2018).",
+     "familias": 14.0
+    },
+    {
+     "nome": "Residencial João Paulo II",
+     "fonte": "Conjunto habitacional/Loteamento (Perfil dos Bairros,SEMPLAN, 2018).",
+     "familias": 5.0
+    },
+    {
+     "nome": "Residencial Dignidade",
+     "fonte": "Base CRAS.",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Betinho",
+     "fonte": "Conjunto habitacional/Loteamento (Perfil dos Bairros,SEMPLAN, 2018). Residencial Herbert de Sousa I, II e III)",
+     "familias": 5.0
+    },
+    {
+     "nome": "Residencial José Ribeiro",
+     "fonte": "Base CRAS.",
+     "familias": 0.0
+    },
+    {
+     "nome": "Parque dos Sonhos",
+     "fonte": "Base CRAS.",
+     "familias": 1.0
+    },
+    {
+     "nome": "Residencial Justina",
+     "fonte": "Base CRAS.",
+     "familias": 0.0
+    },
+    {
+     "nome": "Ribeiro Residencial Jatobá",
+     "fonte": "Base CRAS.",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila do Beréu/Buréu",
+     "fonte": "Base CRAS.",
+     "familias": 0.0
+    },
+    {
+     "nome": "Resdencial Teresa",
+     "fonte": "Base CRAS.",
+     "familias": 0.0
+    },
+    {
+     "nome": "Cristina Vila Angélica",
+     "fonte": "Aglomerado Subnormal/IBGE* (Perfil dos Bairros,SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH). Maior parte fica no bairro Areias",
+     "familias": 0.0
+    },
+    {
+     "nome": "ANGELIM I",
+     "fonte": "CECAD",
+     "familias": 176.0
+    },
+    {
+     "nome": "ANGELIM II",
+     "fonte": "CECAD",
+     "familias": 17.0
+    },
+    {
+     "nome": "ANGELIM III",
+     "fonte": "CECAD",
+     "familias": 15.0
+    }
+   ]
+  },
+  {
+   "nome": "Angélica",
+   "cras": [
+    "SUL II"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 0,
+   "familias": 39,
+   "descricao": "ANGÉLICA – Bairro criado por meio da Lei nº 4.423, de 16 de julho de 2013 e corresponde à área acrescida à zona urbana pela Lei nº 3.264, de 09 de janeiro de 2004 (Perfil dos Bairros, SEMPLAN, 2018**).",
+   "localidades": [
+    {
+     "nome": "Residencial Teresina Sul I e II",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 29.0
+    },
+    {
+     "nome": "Bosque Sul",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 8.0
+    }
+   ]
+  },
+  {
+   "nome": "Areias",
+   "cras": [
+    "SUL V"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 3024,
+   "familias": 621,
+   "descricao": "AREIAS – compreende a área contida no seguinte perímetro: partindo do eixo do Rio Parnaíba, no alinhamento da Rua Josias Carneiro, segue, pelo rio, até o alinhamento da Rua 02 da Vila São Francisco; por esta via, atinge a Av. Henry Wall de Carvalho; segue, rumo sul , até a Rua Odilon Nunes; daí, prossegue até a Rua 11 de Julho e, depois, pela Rua Josias Carneiro; por esta e seu alinhamento, atinge o eixo do Rio Parnaíba, voltando ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Angélica",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH). Uma pequena parte atinge bairro Angelim",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Clemente Fortes",
+     "fonte": "Vila/Favela (Perfil dos Bairros, SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Parque Antártica",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Parque Palmeiras",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | PMT - Orçamento Popular 2014/2015",
+     "familias": 1.0
+    },
+    {
+     "nome": "Vila Areias",
+     "fonte": "Vila/Favela (Perfil dos Bairros, SEMPLAN, 2018). ATENÇÃO: Também aparece no perfil do Distrito Industrial – verificar se é a mesma vila!",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Nossa Senhora do Rosário I, II",
+     "fonte": "Vila/Favela (Perfil dos Bairros, SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Loteamento João Pereira I, II",
+     "fonte": "Base CRAS.",
+     "familias": 0.0
+    },
+    {
+     "nome": "Conjunto Santa Fé",
+     "fonte": "Base CRAS.",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Afegão",
+     "fonte": "Base CRAS.",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila São Francisco IV (Lucy Soares)",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018). Não aparece na Base CRAS",
+     "familias": 0.0
+    },
+    {
+     "nome": "Alto Santa Fé",
+     "fonte": "Base CRAS. Aparece no doc. PMT - Orçamento Popular 2014/2015 também sem identificação",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Aroeiras",
+   "cras": [
+    "LESTE I"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 4577,
+   "familias": 1196,
+   "descricao": "AROEIRAS - Bairro que compreende a área contida no seguinte perímetro: começando no eixo do Rio Poti, no alinhamento correspondente à divisa das glebas Aroeiras e Alegre, segue, por esta divisa até a linha de perímetro urbano; por esta linha, alcança o alinhamento da Rua Caçapava, pela qual e respectivo alinhamento atinge o eixo do Rio Poti, retornando ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Residencial Inglaterra",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Conjunto Paulo de Tarso",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 2.0
+    },
+    {
+     "nome": "Vila Nova",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Nova Teresina I e II",
+     "fonte": "Base CRAS",
+     "familias": 538.0
+    },
+    {
+     "nome": "Residencial Prado Júnior",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    },
+    {
+     "nome": "Loteamento Nova Teresina",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Loteamento Portal da Esperança",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 5.0
+    },
+    {
+     "nome": "Loteamento Cidade 2000",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Nova Conquista I e II",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 3.0
+    }
+   ]
+  },
+  {
+   "nome": "Beira Rio",
+   "cras": [
+    "SUDESTE I"
+   ],
+   "regional": "SDU Sudeste",
+   "populacao": 2890,
+   "familias": 378,
+   "descricao": "BEIRA RIO – compreende a área contida no seguinte perímetro: partindo do eixo do Rio Poti, no alinhamento da Rua Jacinto Rufino Macedo, segue por esta até a Av. Deputado Paulo Ferraz (BR-343), pela qual chega à ponte do contorno rodoviário; e pelo eixo do rio, retorna ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2019).",
+   "localidades": [
+    {
+     "nome": "Vila Nossa Senhora da Guia",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 5.0
+    },
+    {
+     "nome": "Parque Dário Queiroz Galvão",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    },
+    {
+     "nome": "São Raimundo II",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Bela Vista",
+   "cras": [
+    "SUL III"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 12999,
+   "familias": 1158,
+   "descricao": "BELA VISTA – compreende a área contida no seguinte perímetro: partindo do entroncamento da Av. Prefeito Wall Ferraz (BR-316) com a Rua Radialista Benedito Assis; segue, por esta, até a Rua Colombo (Rua 14, no Loteamento Parque Cristiane) e, pelo seu alinhamento atinge o eixo do Rio Poti; prossegue, pelo rio, até o alinhamento da Rua XX do Loteamento Bela Vista III; por esta, chega à Rua I do mesmo loteamento e, depois à Rua Antônio Francisco Veras; por esta, chega à Av. Prefeito Wall Ferraz (BR- 316), seguindo, então, até o ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Concórdia",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Morada Nova",
+     "fonte": "Aglomerado Subnormal/IBGE* (Perfil dos Bairros,SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila do Planalto Bela Vista",
+     "fonte": "Vila/Favela (Perfil dos Bairros, SEMPLAN, 2018). Seria o mesmo “ Planalto Bela Vista I, II e III”?",
+     "familias": 262.0
+    },
+    {
+     "nome": "Vila Nossa Senhora Aparecida",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Penedo",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Planalto Sul",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Planalto Norte",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Professor Wall Ferraz",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila União",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018). | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Santo Antônio",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018). Não aparece na Base CRAS",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Nossa Senhora de Fátima",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018). | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Conjunto Bela Vista I",
+     "fonte": "Base CRAS.",
+     "familias": 77.0
+    },
+    {
+     "nome": "Conjunto Bela Vista III",
+     "fonte": "Base CRAS.",
+     "familias": 88.0
+    },
+    {
+     "nome": "Loteamento Bela Vista/ Loteamento Planalto Bela Vista",
+     "fonte": "Base CRAS.Aparece no Doc PMT - Orçamento Popular 2014/2015",
+     "familias": 6.0
+    },
+    {
+     "nome": "Residencial Monsenhor Chaves",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 3.0
+    },
+    {
+     "nome": "Loteamento Parque Cristiane",
+     "fonte": "Base CRAS.",
+     "familias": 0.0
+    },
+    {
+     "nome": "Bela Vista II",
+     "fonte": "Aglomerado Subnormal/IBGE* (Perfil dos Bairros,SEMPLAN, 2018).",
+     "familias": 39.0
+    }
+   ]
+  },
+  {
+   "nome": "Bom Jesus",
+   "cras": [
+    "NORTE III"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 3606,
+   "familias": 134,
+   "descricao": "BOM JESUS – compreende a área contida no seguinte perímetro: partindo do cruzamento da Rua Castelo do Piauí com a Rua Amarante, pela qual segue até a Av. Prefeito Freitas Neto (contorno do Conjunto Mocambinho); continua até a Rua Engenheiro Alves Noronha, alcançando o alinhamento da Rua Professora Sinhá Borges e a Rua Topógrafo Solimar Avelino, de onde prossegue, em direção sul, até a Rua Castelo do Piauí; daí, retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Bom Princípio",
+   "cras": [
+    "SUDESTE IV"
+   ],
+   "regional": "SDU Sudeste",
+   "populacao": 2654,
+   "familias": 674,
+   "descricao": "BOM PRINCÍPIO – compreende a área da zona urbana ao sul dos loteamentos Verdecap I e Verdecap II (Perfil dos Bairros, SEMPLAN, 2019).",
+   "localidades": [
+    {
+     "nome": "Residencial Deus Quer",
+     "fonte": "Conjunto habitacional/ Loteamento (Perfil dos Bairros,SEMPLAN, 2019)",
+     "familias": 2.0
+    },
+    {
+     "nome": "Loteamento Nova Santana",
+     "fonte": "Conjunto habitacional/ Loteamento (Perfil dos Bairros,SEMPLAN, 2019)",
+     "familias": 2.0
+    },
+    {
+     "nome": "Loteamento Bom Princípio",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Recanto dos Pássaros",
+     "fonte": "Conjunto habitacional/ Loteamento (Perfil dos Bairros,SEMPLAN, 2019) No doc PMT -Orçamento Popular 2014/2015 também não informa se é conjunto, residencial...",
+     "familias": 7.0
+    }
+   ]
+  },
+  {
+   "nome": "Brasilar",
+   "cras": [
+    "SUL I"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 2742,
+   "familias": 30,
+   "descricao": "BRASILAR – compreende a área contida no seguinte perímetro: partindo do encontro das avenidas Joca Claudino e Prefeito Wall Ferraz (BR- 316), segue, por esta, até a Av. Alencar Matos, pela qual atinge a Av. Itaguaí; por esta, alcança a Av. Joca Claudino e retorna ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Loteamento Brasilar",
+     "fonte": "Doc PMT -Orçamento Popular 2014/2015",
+     "familias": 2.0
+    },
+    {
+     "nome": "Loteamento Parque Porto Alegre ( inseri)",
+     "fonte": "Doc PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Buenos Aires",
+   "cras": [
+    "NORTE III"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 7308,
+   "familias": 1073,
+   "descricao": "BUENOS AIRES – O bairro Buenos Aires compreende a área contida no seguinte perímetro: partindo do cruzamento da Av. Duque de Caxias com a Rua Jerumenha, segue, por esta, em direção norte, até a Rua Castelo do Piauí; continua até a Rua Topógrafo Solimar Avelino e, depois, pelas ruas Professora sinhá Borges e Engenheiro Alves Noronha; alcança a Av. Prefeito Freitas Neto (contorno do Conjunto Mocambinho) e, por esta, a Av. Duque de Caxias; pela avenida e alinhamento chega à Rua Emanuel Liarth, e, novamente à Av. Duque de Caxias, retornando ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Sinhá Borges",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "",
+     "fonte": "Base CRAS",
+     "familias": 5.0
+    }
+   ]
+  },
+  {
+   "nome": "Cabral",
+   "cras": [
+    "NORTE III"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 3236,
+   "familias": 161,
+   "descricao": "CABRAL – O bairro Cabral compreende a área contida no seguinte perímetro: partindo do encontro das avenidas Miguel Rosa e Jacob Almendra, segue, por esta, até a Rua Nina Rodrigues, pela qual prossegue até a Rua Juliano Moreira e, por esta até o eixo do Rio Poti, prosseguindo, por este, em sentido sul, até a Ponte Juscelino Kubitschek; daí, segue, pela Av. Frei Serafim e, depois pela Av. Miguel Rosa, retornando ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Campestre",
+   "cras": [
+    "LESTE IV"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 4420,
+   "familias": 255,
+   "descricao": "CAMPESTRE – O bairro Campestre compreende a área contida no seguinte perímetro: partindo do cruzamento da Av. Dr. Aquiles Wall Ferraz com a Rua José Torquato Viana, segue, pela citada rua, até a Av. João Antonio Leitão e, depois, até a Av. Horácio Ribeiro; continua, em direção leste, até a Av. Zequinha Freire; prossegue, por esta, até a Av. Dr. Aquiles Wall Ferraz e, daí, retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Samaritana",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 30.0
+    },
+    {
+     "nome": "Vila Santa Maria de Jesus",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "",
+     "fonte": "Mapa Rodoviário de Teresina (2013)",
+     "familias": 11.0
+    }
+   ]
+  },
+  {
+   "nome": "Catarina",
+   "cras": [
+    "SUL IV"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 1771,
+   "familias": 228,
+   "descricao": "CATARINA – compreende a área contida no seguinte perímetro: partindo do encontro da Rua Quinze de Novembro com a Av. Getúlio Vargas (BR-343), segue, por esta até o eixo do Rio Poti; pelo rio, segue até o alinhamento e pela própria Rua Colombo (Rua 14, no Loteamento Parque Cristiane); prossegue, por esta, até a Rua Alberto Leal Nunes e, depois, até a Rua Gonçalves Dias; rumo norte, atinge a Rua Cícero Soares; por esta, alcança a Rua Quinze de Novembro e, daí, retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Parque Rodoviário",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018).",
+     "familias": 134.0
+    },
+    {
+     "nome": "Residencial Hugo Prado",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Loteamento Santa Rita",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Bem Viver",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018). Não aparece na Base CRAS.",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila do Sapo",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018). Não aparece na Base CRAS.",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Centro",
+   "cras": [
+    "NORTE II",
+    "NORTE III",
+    "SUL IV"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 36540,
+   "familias": 561,
+   "descricao": "CENTRO – Bairro que compreende a área contida no seguinte perímetro: partindo do eixo do Rio Parnaíba sob a Ponte João Luís Ferreira, segue, pela ponte e pela Av. Miguel Rosa até o encontro com a Av. Joaquim Ribeiro; daí, em direção oeste, prossegue, até o eixo do Rio Parnaíba e, por este, retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "",
+     "fonte": "Centro Norte – Da Av. Maranhão, seguindo pela Av. Miguel Rosa até a Av. Coelho de Resende, desta até a Av. Frei Serafim, retornando pela Av. Sen Teodoro Pacheco à Av. Maranhão.",
+     "familias": 29.0
+    },
+    {
+     "nome": "Centro Norte",
+     "fonte": "Da Av. Miguel Rosa, seguindo pela Frei Serafim, até a Av. Coelho de Resende, retornando à Av. Miguel Rosa. ATENÇÃO: Durante a construção do mapa, esta região ficou com o Norte II. Mas na base territorial, consta como Norte III, tendo sido associada ao bairro Frei Serafim.",
+     "familias": 5.0
+    },
+    {
+     "nome": "Centro Sul",
+     "fonte": "Área abaixo das Av. Sen Teodoro Pacheco e Frei Serafim.",
+     "familias": 75.0
+    }
+   ]
+  },
+  {
+   "nome": "Chapadinha",
+   "cras": [
+    "NORTE I",
+    "NORTE V"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 0,
+   "familias": 44,
+   "descricao": "CHAPADINHA – O bairro Chapadinha corresponde à área contida no seguinte perímetro: partindo do encontro do eixo do Rio Parnaíba com a linha de perímetro urbano (limite norte), segue pela linha até o contorno do Conjunto Residencial Jacinta Andrade; por este contorno, alcança a Rua Brás Honório; por esta via e respectivo alinhamento, atinge o eixo do Rio Parnaíba, retornando ao ponto inicial (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Dilma Roussef",
+     "fonte": "PMT - Orçamento Popular 2014/2015 | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 7.0
+    },
+    {
+     "nome": "Dandara dos Cocais",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 1.0
+    }
+   ]
+  },
+  {
+   "nome": "Cidade Jardim",
+   "cras": [
+    "LESTE I"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 0,
+   "familias": 101,
+   "descricao": "CIDADE JARDIM - compreende a área contida no seguinte perímetro: começa no entroncamento da Av. Presidente Kennedy com a Rua Rafaello Rinaldi; segue, por esta, até a Rua do Fio, pela qual e respectivo alinhamento atinge o eixo do Rio Poti; pelo rio, rumo norte, atinge o alinhamento da Rua Ana Maria Gonçalves Silva; daí, alcança a Av. Josué Moura Santos, por esta chega à Rua Vereador Joel Loureiro, por esta e pelas ruas Alterosas, Lageada, Santana e Genoveva, alcança a Avenida Presidente Kennedy, retornando ao ponto inicial. O bairro Cidade Jardim foi criado por meio da Lei nº 4.423, de 16 de julho de 2013. A região foi desmembrada dos bairros Pedra Mole e Tabajaras. (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Conjunto Cidade Jardim",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila São José",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | PMT -Orçamento Popular 2014/2015.",
+     "familias": 1.0
+    },
+    {
+     "nome": "Vila São José do Alto Bonito",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH).",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Cidade Nova",
+   "cras": [
+    "SUL IV"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 3336,
+   "familias": 328,
+   "descricao": "CIDADE NOVA – compreende a área contida no seguinte perímetro: partindo do entroncamento da avenidas Industrial Gil Martins e Barão de Castelo Branco, segue, por esta, até a Av. Odilon Araújo; daí, prossegue até a Rua Celso Pinheiro, pela qual atinge a Av. Industrial Gil Martins, retornando, por esta, ao ponto inicial (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Colorado",
+   "cras": [
+    "SUDESTE III"
+   ],
+   "regional": "SDU Sudeste",
+   "populacao": 7062,
+   "familias": 999,
+   "descricao": "COLORADO – compreende a área contida no seguinte perímetro: partindo do encontro do alinhamento da Rua Serra Grande com a via férrea, segue, por esta, até a Av. Noé Mendes, por onde prossegue até a Rua Serra Grande e, pelo seu alinhamento, retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2019).",
+   "localidades": [
+    {
+     "nome": "Vila Monte Horebe",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 7.0
+    },
+    {
+     "nome": "Vila Bom Jesus",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | PMT -Orçamento Popular 2014/2015 *Belterra",
+     "familias": 1.0
+    },
+    {
+     "nome": "Vila Ferroviária I/ Vila Ferroviária",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018). No Doc PMT -Orçamento Popular 2014/2015 não tem o\" I\"",
+     "familias": 0.0
+    },
+    {
+     "nome": "Parque Colorado",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 39.0
+    },
+    {
+     "nome": "Alto do Muro",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Alto do Morro",
+     "fonte": "PMT - Orçamento Popular 2014/2015 Verificar se é a mesma Vila do Morro e confirmar grafia correta",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Bom Sucesso",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Loteamento Belterra II/ Vila Belterra II",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Conjunto Redonda",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 11.0
+    },
+    {
+     "nome": "Vila Monte Sinai",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Progresso",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Belterra I",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Urbano Eulálio II",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Colorado",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018). Não localizado no doc PMT - Orçamento Popular 2014/2015",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Comprida",
+   "cras": [
+    "SUDESTE I"
+   ],
+   "regional": "SDU Sudeste",
+   "populacao": 1672,
+   "familias": 169,
+   "descricao": "COMPRIDA – compreende a área contida no seguinte perímetro: começa no eixo do Rio Poti, no alinhamento da Av. Noé Mendes (linha de transmissão da CHESF); segue, por esta até a Rua Monsenhor Zaul Pedreira; daí, segue até a Rua Jornalista Wilson Fernandes, continua , por esta e seu alinhamento até o eixo do Rio Poti, pelo qual retorna ao ponto inicial (Perfil dos Bairros, SEMPLAN, 2019).",
+   "localidades": [
+    {
+     "nome": "Residencial Fortes",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Parque Extrema",
+     "fonte": "Base CRAS",
+     "familias": 1.0
+    },
+    {
+     "nome": "Loteamento Parque Alexandria",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Cristo Rei",
+   "cras": [
+    "SUL IV"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 8474,
+   "familias": 269,
+   "descricao": "CRISTO REI – compreende a área contida no seguinte perímetro; parte do entroncamento da Rua Mato Grosso com a Av. Higino Cunha; por esta e pela Ponte Wall Ferraz, segue até o eixo do Rio Poti; pelo curso d'água, atinge o alinhamento da Av. Industrial Gil Martins, pela qual prossegue, rumo oeste, até a Rua Celso Pinheiro; continua, por esta, até a Avenida Odilon Araújo, pela qual alcança a Rua Desembargador José Messias, chegando à Av. São Raimundo; daí, atinge a Rua Mato Grosso, por onde retorna ao ponto inicial (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Conjunto João Emílio Falcão",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 2.0
+    },
+    {
+     "nome": "Residencial Cristo Rei",
+     "fonte": "Base CRAS.",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Ferroviária I",
+     "fonte": "Perfil dos Bairros(SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Distrito Industrial",
+   "cras": [
+    "SUL III"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 4780,
+   "familias": 559,
+   "descricao": "DISTRITO INDUSTRIAL – compreende a área contida no seguinte perímetro: partindo do encontro da Rua General João Henrique Gayoso com a Av. Henry Wall de Carvalho, segue até a Av. Walfrido Salmito; depois, pelas ruas 11 de Agosto e Odilon Nunes, retorna à Av. Henry Wall de Carvalho; daí, segue, rumo norte, até a Rua 02 da Vila São Francisco; por esta e, no seu alinhamento, alcança o eixo do Rio Parnaíba; pelo rio, segue até o alinhamento da Rua General João Henrique Gayoso, retornando ao ponto inicial (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Carolina Silva",
+     "fonte": "Aglomerado Subnormal/IBGE* (Perfil dos Bairros,SEMPLAN, 2018).",
+     "familias": 6.0
+    },
+    {
+     "nome": "Vila Nossa Senhora do Rosário",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Parque Afonso Gil",
+     "fonte": "Vila/Favela (Perfil dos Bairros, SEMPLAN, 2018).",
+     "familias": 11.0
+    },
+    {
+     "nome": "Vila Parque Saci",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018). Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH) Estende-se até o bairro Saci",
+     "familias": 9.0
+    },
+    {
+     "nome": "Vila da Esplanada",
+     "fonte": "Base CRAS.",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Afonso Gil I",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Santa Rosa",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 3.0
+    },
+    {
+     "nome": "Parque Industrial",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018). Não aparece na base CRAS.",
+     "familias": 1.0
+    },
+    {
+     "nome": "Santa Maria",
+     "fonte": "Aglomerado Subnormal/IBGE* (Perfil dos Bairros,SEMPLAN, 2018).",
+     "familias": 3.0
+    }
+   ]
+  },
+  {
+   "nome": "Embrapa",
+   "cras": [
+    "NORTE III"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 1006,
+   "familias": 2,
+   "descricao": "EMBRAPA – O bairro Embrapa compreende a área contida no seguinte perímetro: partindo do encontro da Av. Prefeito Freitas Neto (contorno do Conjunto Mocambinho) com a Rua Fotógrafo Carioca, segue, por esta e seu alinhamento até o eixo do rio Poti; pelo rio, prossegue até o alinhamento do limite oeste do terreno da EMBRAPA - Empresa Brasileira de Pesquisa Agropecuária; por este limite, atinga a Rua Emanuel Liarth e atravessa-a, no alinhamento da Av. Duque de Caxias, pela qual retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Embrapa",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018). PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Esplanada",
+   "cras": [
+    "SUL I",
+    "SUL II"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 21135,
+   "familias": 2632,
+   "descricao": "ESPLANADA – compreende a área contida no seguinte perímetro: partindo do encontro das avenidas Prefeito Wall Ferraz (BR- 316) e Joca Claudino, segue, por esta, até a Rua Jerusalém, pela qual atinge a Estrada da Pedra Miúda, contorno sul do Loteamento Parque das Esplanadas; por esta, alcança a Av. Prefeito Wall Ferraz (BR-316) e retorna ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Parque das Esplanadas/ Loteamento Parque das Esplanadas",
+     "fonte": "Aglomerado Subnormal/IBGE* (Perfil dos Bairros,SEMPLAN, 2018). No Doc PMT -Orçamento Popular 2014/2015 está Loteamento",
+     "familias": 11.0
+    },
+    {
+     "nome": "Vila das Esplanadas",
+     "fonte": "Doc PMT -Orçamento Popular 2014/2015 Localizada dentro do Parque das Esplanadas",
+     "familias": 0.0
+    },
+    {
+     "nome": "Conjunto Porto Alegre",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 962.0
+    },
+    {
+     "nome": "Loteamento Porto Alegre I. II e III",
+     "fonte": "PMT -Orçamento Popular 2014/2015 Verificar se está dentro do Conjunto Porto Alegre.",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Judite Nunes",
+     "fonte": "Base CRAS",
+     "familias": 1.0
+    },
+    {
+     "nome": "Vila Parque Industrial",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Joana Isabel",
+     "fonte": "Aglomerado Subnormal/IBGE.* ATENÇÃO: Aparece também no bairro Angelim como Vila/Favela. (Perfil dos Bairros,SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Tenho Fé",
+     "fonte": "Base CRAS. Não aparece no Doc PMT -Orçamento Popular 2014/2015",
+     "familias": 3.0
+    },
+    {
+     "nome": "Residencial Esplanada",
+     "fonte": "Base CRAS. Não aparece no Doc PMT -Orçamento Popular 2014/2015",
+     "familias": 1.0
+    },
+    {
+     "nome": "Vila Bahema",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Extrema",
+   "cras": [
+    "SUDESTE I"
+   ],
+   "regional": "SDU Sudeste",
+   "populacao": 5761,
+   "familias": 1010,
+   "descricao": "EXTREMA – compreende a área contida no seguinte perímetro: começa no encontro das ruas Jornalista Wilson Fernandes e Monsenhor Zaul Pedreira, segue, por esta, até a Rua Juiz José Carvalho Feitosa; daí, novamente pela Rua Monsenhor Zaul Pedreira, antiga a Rua Joaquim Nelson, pela qual e respectivo alinhamento atinge o eixo do Rio Poti; pelo rio, segue até o alinhamento da Rua Monsenhor Zaul Pedreira; por este alinhamento e pela própria rua, retorna ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2019).",
+   "localidades": [
+    {
+     "nome": "Vila Pantanal",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Verde",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Parque Boa Esperança",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Dona Lucy",
+     "fonte": "PMT -Orçamento Popular 2014/2015 é Vila Dona Lucy",
+     "familias": 0.0
+    },
+    {
+     "nome": "Parque Jurema",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 479.0
+    },
+    {
+     "nome": "Parque Alexandria",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Flor Do Campo",
+   "cras": [
+    "SUDESTE III"
+   ],
+   "regional": "SDU Sudeste",
+   "populacao": 252,
+   "familias": 3,
+   "descricao": "FLOR DO CAMPO – O bairro Flor do Campo corresponde à área acrescida à zona urbana pela Lei Nº 3.906, de 31 de agosto de 2009. O Bairro foi criado com a implantação do Residencial Padre Pedro Balzi financiado com recursos Federais no ano de 2009, sendo desmembrado do bairro Todos os Santos (Perfil dos Bairros,SEMPLAN, 2019).",
+   "localidades": []
+  },
+  {
+   "nome": "Fátima",
+   "cras": [
+    "LESTE IV"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 8349,
+   "familias": 98,
+   "descricao": "FÁTIMA – O bairro Fátima compreende a área contida no seguinte perímetro: começa no eixo do Rio Poti sob a Ponte da Primavera; segue pela Av. Universitária e pela Rua Visconde da Parnaíba até a Av. Homero Castelo Branco; daí, prossegue até a Av. Elias João Tajra, seguindo o seu alinhamento até o eixo do Rio Poti, pelo qual retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Gurupi",
+   "cras": [
+    "SUDESTE III"
+   ],
+   "regional": "SDU Sudeste",
+   "populacao": 13724,
+   "familias": 2445,
+   "descricao": "GURUPI - compreende a área contida no seguinte perímetro: começa no cruzamento da Avenida João XXIII (BR-343) com a Avenida Zequinha Freire; segue, por aquela, até a Av. Professor Camilo Filho; continua, até a via férrea, pela qual prossegue, em direção leste, até a Av. Joaquim Nelson; atinge a Av. Deputado Paulo Ferraz, chega à Av. João XXIII (BR- 343) e, por esta, retornando ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2019).",
+   "localidades": [
+    {
+     "nome": "Vila Alto da Ressurreição",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 36.0
+    },
+    {
+     "nome": "Loteamento Green Park",
+     "fonte": "conjunto habitacional/ loteamento (Perfil dos Bairros,SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Frei Damião",
+     "fonte": "conjunto habitacional/ loteamento (Perfil dos Bairros,SEMPLAN, 2018)",
+     "familias": 1.0
+    },
+    {
+     "nome": "Vila Ferroviária/ Está vinculado ao Colorado no doc. PMT - Orçamento Popular 2014/2015",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018). *Loteamento Vitória",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Urbano Eulálio I",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Urbano Eulálio",
+     "fonte": "Habitações Populares-Teresina Geo (Vila Vitória)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Loteamento Paulo Carneiro",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Loteamento parque Algodões",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    },
+    {
+     "nome": "Alphaville",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    },
+    {
+     "nome": "Loteamento Vila",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    },
+    {
+     "nome": "Teresina Parque Gurupi",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Horto",
+   "cras": [
+    "LESTE IV"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 5889,
+   "familias": 142,
+   "descricao": "HORTO – O bairro Horto compreende a área contida no seguinte perímetro: partindo do cruzamento da Av. Homero Castelo Branco com a Rua Juiz João Almeida, segue, em sentido leste, por esta e pela Rua Desembargador Adalberto Correia Lima, até a Av. Presidente Kennedy (PI-112); continua até a Av. Dom Severino, pela qual prossegue até a Av. Homero Castelo Branco e, por esta, retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Miranda Dantas",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Carlos Pádua",
+     "fonte": "Habitações Populares-Teresina Geo Antigo Morro do Garrincha",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Ilhotas",
+   "cras": [
+    "SUL IV"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 6956,
+   "familias": 538,
+   "descricao": "ILHOTAS – Bairro que compreende a área contida no seguinte perímetro: partindo do entroncamento da Av. Leônidas Melo com a Rua Goiás, segue por esta até a via férrea e, depois, pela Rua José Olímpio de Melo e atinge o eixo do Rio Poti; pelo rio, prossegue até a Ponte Wall Ferraz; por esta e pela Av. Higino Cunha, chega à Av. Leônidas Melo, pela qual retorna ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Ferroviária II",
+     "fonte": "Perfil dos Bairros(SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Conjunto Murilo Resende",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Conjunto Alô Teresina",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Favela da Ilhotas",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Ininga",
+   "cras": [
+    "LESTE IV"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 8099,
+   "familias": 227,
+   "descricao": "ININGA – O bairro Ininga compreende a área contida no seguinte perímetro: partindo do cruzamento da Av. Homero Castelo Branco com a Rua Visconde da Parnaíba, segue, por esta e pela Av Universitária, até a ponte da Primavera; daí, segue sobre o eixo do rio atéo alinhamento da Rua Ulisses Marques, pela qual prossegue, em sentido leste, até a Av. Homero Castelo Branco, retornando ao ponto inicial (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Parque Ininga",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila da Cerâmica",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Itaperu",
+   "cras": [
+    "NORTE II"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 2166,
+   "familias": 100,
+   "descricao": "ITAPERU – compreende a área contida no seguinte perímetro: partindo do encontro das avenidas União e Centenário, segue, por esta, até a Alameda Mestre João Isidoro França, atingindo a Rua Castelo do Piauí; alcança, por esta, a Rua Sotero Vaz da Silveira e, prosseguindo até a Av. União, retorna, por esta, ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Conjunto Itaperu",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Itararé",
+   "cras": [
+    "SUDESTE I",
+    "SUDESTE II"
+   ],
+   "regional": "SDU Sudeste",
+   "populacao": 37443,
+   "familias": 3835,
+   "descricao": "ITARARÉ – compreende a área contida no seguinte perímetro: partindo do cruzamento da Av. Deputado Paulo Ferraz (BR-343) com a via férrea, segue, por esta, até a Rua Joaquim Nelson; daí, continua até a Rua Monsenhor Zaul Pedreira, pela Rua Juiz José Carvalho Feitosa, novamente pela Rua Monsenhor Zaul Pedreira e pela Rua Desembargador Manoel Felício Pinto; por esta, chega à Av. Deputado Paulo Ferraz (BR-343) e, daí, retorna ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2019).",
+   "localidades": [
+    {
+     "nome": "Vila Eugênia Ferraz",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 1.0
+    },
+    {
+     "nome": "Conjunto Dirceu Arcoverde II",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018). - Quadras 277 a 373",
+     "familias": 31.0
+    },
+    {
+     "nome": "Conjunto Dirceu Arcoverde II",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) - Quadras 152 a 276",
+     "familias": 36.0
+    },
+    {
+     "nome": "Conjunto Dirceu Arcoverde I",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 65.0
+    },
+    {
+     "nome": "Parque Boa Esperança",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 5.0
+    },
+    {
+     "nome": "Parque Itarare",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 227.0
+    },
+    {
+     "nome": "Vila Mariana Fortes",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 6.0
+    },
+    {
+     "nome": "Vila Parque Flamboyant/ Vila Flamboyant",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) / PMT -Orçamento Popular 2014/2015",
+     "familias": 30.0
+    },
+    {
+     "nome": "Favela Moçambique",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila CSU",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Jacinta Andrade",
+   "cras": [
+    "NORTE V"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 0,
+   "familias": 26,
+   "descricao": "JACINTA ANDRADE – corresponde à área do Conjunto Residencial Jacinta Andrade (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Conjunto Jacinta Andrade",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 5.0
+    },
+    {
+     "nome": "Camboa I e II",
+     "fonte": "Base CRAS",
+     "familias": 2.0
+    }
+   ]
+  },
+  {
+   "nome": "Jóquei",
+   "cras": [
+    "LESTE IV"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 5967,
+   "familias": 37,
+   "descricao": "JÓQUEI – O bairro Jóquei compreende a área contida no seguinte perímetro: partindo do eixo do Rio Poti, no alinhamento da Av. Elias João Tajra, segue, por esta, até a Av. Homero Castelo Branco; daí, continua, em direção sul, até a Av. João XXIII, atingindo, por esta e pela Ponte Juscelino Kubitschek o eixo do Rio Poti e retornando ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Livramento",
+   "cras": [
+    "SUDESTE II"
+   ],
+   "regional": "SDU Sudeste",
+   "populacao": 0,
+   "familias": 24,
+   "descricao": "LIVRAMENTO – compreende a área contida no seguinte perímetro: partindo do cruzamento da via férrea com a Av. Deputado Paulo Ferraz (BR-343), segue, por esta, até a Rua Joaquim Nelson; depois, na direção sul, até a via férrea, de onde retorna ao ponto de partida. O bairro é formado por uma área de uso não residencial, recebeu o mesmo nome de uma usina lá existente – a usina Livramento (Perfil dos Bairros, SEMPLAN, 2019).",
+   "localidades": []
+  },
+  {
+   "nome": "Lourival Parente",
+   "cras": [
+    "SUL III",
+    "SUL IV"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 29506,
+   "familias": 996,
+   "descricao": "LOURIVAL PARENTE – compreende a área contida no seguinte perímetro: partindo do entroncamento da Av. Prefeito Wall Ferraz (BR-316) com a Rua Senador Joaquim Paranaguá, segue, por esta, até a Rua Frederico Clark e, depois pelas ruas XV do Conjunto Morada Nova, Gonçalves Dias, Alberto Leal Nunes, Colombo (Rua 14, no Loteamento Parque Cristiane) e Radialista Benedito Assis, retornando à Av. Prefeito Wall Ferraz; por esta atinge a Av. 19 de Outubro; segue na direção oeste e chega à Av. Henry Wall de Carvalho; continua, por esta, até a Rua Afonso Pena, pela qual atinge a Av. Prefeito Wall Ferraz (BR- 316), retornando ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "",
+     "fonte": "Da Av. Prefeito Wall Ferraz (BR- 316), seguindo pela Av. 19 de Outubro até a Av. Henry Wall de Carvalho, retornando pela Rua Afonso Pena à Av. Prefeito Wall Ferraz (compreende a área que fica antes da BR no sentido oeste-leste; lado onde fica a CEAPI).",
+     "familias": 264.0
+    },
+    {
+     "nome": "Da Av. Prefeito Wall Ferraz (BR-316), seguindo pela Rua Senador Joaquim Paranaguá até a Rua Frederico Clark, depois pelas rua XV do Conjunto Morada Nova, Ruas Gonçalves Dias, Alberto Leal Nunes, Colombo (Rua 14, no Loteamento Parque Cristiane) e Radialista Benedito Assis, retornando à Av. Prefeito Wall Ferraz (compreende a área que fica depois da BR no sentido oeste-leste; lado",
+     "fonte": "",
+     "familias": 732.0
+    },
+    {
+     "nome": "onde fica a Morada Vila Morada Nova, Nova). Residencial Maria Luiza Parente???????",
+     "fonte": "",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Macaúba",
+   "cras": [
+    "SUL IV"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 5925,
+   "familias": 320,
+   "descricao": "MACAÚBA – Bairro que compreende a área contida no seguinte perímetro: partindo do cruzamento das avenidas Nações Unidas e Miguel Rosa, segue, em direção leste, pela Av. Nações Unidas, até a Rua Doutor Área Leão; depois, pela Rua Porto e, novamente, pela Rua Doutor Area Leão, atinge a Av. Industrial Gil Martins, prosseguindo, em sentido oeste, até a Av. Miguel Rosa, peIa qual retorna ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Mafrense",
+   "cras": [
+    "NORTE II"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 6492,
+   "familias": 1261,
+   "descricao": "MAFRENSE – compreende a área contida no seguinte perímetro: começa no encontro da Rua Manoel Aguiar Filho com a Rua Desembargador Vaz da Costa; segue, por esta, em direção leste, até a Alameda Domingos Mafrense, pela qual alcança a Rua Tomaz Rebelo; daí, segue até a Alameda Mestre João Isidoro França, atingindo a Rua Técnico Joaquim Soares; segue pela Rua Angico e, por esta, chega à Rua Rui Barbosa, prosseguindo até a Rua Pantanal e depois pelas ruas Presidente Lincoln e Hiroshima; por esta, até a Rua Francisco Pimentel Cunha e, por último atinge a Rua Manoel Aguiar Filho, retornando ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Favela Inferninho",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH) Divisa com o bairro São Joaquim",
+     "familias": 0.0
+    },
+    {
+     "nome": "Mafrense",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Mafuá",
+   "cras": [
+    "NORTE II"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 2861,
+   "familias": 124,
+   "descricao": "MAFUÁ – compreende a área contida no seguinte perímetro: começando no encontro da Av. Miguel Rosa com a Rua Rui Barbosa, segue, por esta, em direção norte, até a Alameda Parnaíba, pela qual continua, em direção leste, até a Rua Anísio de Abreu; daí, prossegue até a Av. Miguel Rosa, retornando ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Marquês",
+   "cras": [
+    "NORTE III"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 3865,
+   "familias": 122,
+   "descricao": "MARQUÊS – O bairro Marquês compreende a área contida no seguinte perímetro: partindo do cruzamento da Rua Anísio de Abreu com a Av. Miguel Rosa, segue, em direção norte, pela Rua Anísio de Abreu, até a Rua Pernambuco; alcança a Rua Primeiro de Maio, pela qual atinge a Alameda Parnaíba; chega, por esta, à Rua 13 de Março, por onde continua até a Rua Clodoaldo Freitas; prossegue, por esta, até a Av. Jacob Almendra e, a seguir, até a Av. Miguel Rosa, retornando ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Matadouro",
+   "cras": [
+    "NORTE II"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 5530,
+   "familias": 1015,
+   "descricao": "MATADOURO – compreende a área contida no seguinte perímetro: partindo do alinhamento da Rua Vereador Álvaro Monteiro no eixo do Rio Parnaíba, segue, pela citada rua, até a Rua José Compasso; depois, pela Rua Martinelli Cavalca, atinge a Rua Rui Barbosa, pela qual prossegue até a Rua Parnaguá, alcança, a Rua Minas Gerais, por onde atinge o eixo do Rio Parnaíba e, daí, segue em direção norte até o ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Bom Jesus - Norte",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018). Não consta no documento do PMT - Orçamento Popular 2014/2015",
+     "familias": 2.0
+    },
+    {
+     "nome": "Vila Santo Afonso",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) |PMT -Orçamento Popular 2014/2015",
+     "familias": 3.0
+    },
+    {
+     "nome": "Conjunto Cintia Portela",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 1.0
+    },
+    {
+     "nome": "Residencial Lagoa Azul",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) - Não consta no documento do PMT -Orçamento Popular 2014/2015",
+     "familias": 2.0
+    },
+    {
+     "nome": "Vila Bom Jesus II",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Matinha",
+   "cras": [
+    "NORTE II"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 3129,
+   "familias": 281,
+   "descricao": "MATINHA – compreende a área contida no seguinte perímetro: partindo do alinhamento da Rua Ceará, no eixo do Rio Parnaíba, segue por aquela rua, em direção leste, até a Av. Santos Dumont; continua, então, até a Rua Rui Barbosa, pela qual prossegue até a Av. Miguel Rosa; daí, em direção oeste, atinge a Ponte João Luís Ferreira e, pelo eixo do Rio Parnaíba, retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Memorare",
+   "cras": [
+    "NORTE III"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 5667,
+   "familias": 544,
+   "descricao": "MEMORARE – compreende a área contida no seguinte perímetro: partindo do cruzamento da Rua Castelo do Piauí com a Rua Jerumenha, atinge, por esta, a Av. União; prossegue, em direção oeste, até a Rua Sotero Vaz da Silveira, pela qual alcança a Rua Castelo do Piauí, retornando ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Conjunto União",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) - Não tem no doc. PMT - Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Tiradentes",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Mocambinho",
+   "cras": [
+    "NORTE III"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 28385,
+   "familias": 2019,
+   "descricao": "MOCAMBINHO – compreende a área contida no seguinte perímetro: partindo do eixo do Rio Poti, no alinhamento da Rua Fotógrafo Carioca, segue, por este alinhamento e pela própria via, até a Av. Prefeito Freitas Neto (contorno do Conjunto Mocambinho): por esta, atinge a Rua Amarante, pela qual segue até a Av Dr. Antonio Pedreira Martins e, depois, até as ruas Iguatu, Algaroba e Menino Jesus, pela qual segue, em direção norte, até a Av. Prefeito Freitas Neto (contorno do Conjunto Mocambinho); por esta e seu alinhamento, atinge o eixo do Rio Poti, pelo qual retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Mocambinho I",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 781.0
+    },
+    {
+     "nome": "Vila Mocambinho II",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 272.0
+    },
+    {
+     "nome": "Vila Mocambinho III",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 350.0
+    },
+    {
+     "nome": "Vila Sitricon",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018). Não tem no doc. PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Firmino Filho II",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) PMT -Orçamento Popular 2014/2015",
+     "familias": 4.0
+    },
+    {
+     "nome": "Residencial Poty",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Santa Clara",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial São José",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 3.0
+    },
+    {
+     "nome": "Loteamento Mocambinho",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 116.0
+    },
+    {
+     "nome": "Conjunto Santa Sofia",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 60.0
+    }
+   ]
+  },
+  {
+   "nome": "Monte Castelo",
+   "cras": [
+    "SUL IV"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 10981,
+   "familias": 972,
+   "descricao": "MONTE CASTELO – compreende a área contida no seguinte perímetro; partindo do entroncamento da Av. Nações Unidas com as ruas Doutor Area Leão e Juvêncio Carvalho, segue, por esta, e pela Rua São Francisco, até o entroncamento da Av. José dos Santos e Silva com a Rua Picos, continuando, pela Rua Picos, até a Av. Odilon Araújo; pela citada avenida, alcança a Av. Barão de Castelo Branco, seguindo, por esta, até a Av. Industrial Gil Martins, pela qual prossegue, em sentido oeste, até a Rua Doutor Area Leão; depois, Rua Porto e, novamente, Rua Doutor Area Leão; daí, continua, em sentido norte, até o ponto de partida. (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Monte Verde",
+   "cras": [
+    "NORTE V"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 0,
+   "familias": 241,
+   "descricao": "MONTE VERDE – compreende a área contida no seguinte perímetro: partindo do encontro da Rua XX do Parque Wall Ferraz com a Rua Chico Conrado, segue, por esta, até a Rua 10 do Loteamento Santa Maria da Codipi e, depois pela Av. Sérgio Motta; chega a Rua Amadeus Paulo e, rumo sul, atinge o alinhamento do contorno sul do Residencial Paulo de Tarso; por este contorno, alcança o limite oeste do Conjunto Jacinta Andrade; por este, prossegue até o ponto com coordenadas 4º 59’ 43,71” Sul e 42º 48’ 42,59” Oeste, depois, com 85 metros atinge o ponto com coordenadas 4º 59’ 45,84” Sul e 42º 48’ 44,35” Oeste; seguindo 977 metros, por divisa de gleba, chega ao ponto de coordenadas 4º 59’ 56,63” Sul e 42º 49’ 14,38” Oeste, no limite leste da Vila Monte Alegre; daí, pela Rua Monte Alto atravessa a Rua Amadeus Paulo e pela Av. Perimetral 2, pela Rua Jornalista Ronaldo Michael e pelo contorno do Residencial Francisca Trindade, alcança a Rua XX do Parque Wall Ferraz, retornando ao ponto inicial (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Monte Verde",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018) | No doc. PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Morada Do Sol",
+   "cras": [
+    "LESTE IV"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 5496,
+   "familias": 81,
+   "descricao": "MORADA DO SOL – compreende a área contida no seguinte perímetro: partindo do entroncamento das avenidas Senador Area Leão e Presidente Kennedy (PI-112), segue, por esta, em sentido norte, até a Av. João Antônio Leitão, pela qual prossegue até a Rua José Torquato Viana e depois, até a Rua Jaime da Silveira; continua, por esta, até a Av. Senador Area Leão, por onde retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Morada Nova",
+   "cras": [
+    "SUL IV"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 6104,
+   "familias": 151,
+   "descricao": "MORADA NOVA – compreende a área contida no seguinte perímetro: partindo do entroncamento das avenidas Prefeito Wall Ferraz (BR-316) e Getúlio Vargas (BR-343), segue, por esta, até a Rua Quinze de Novembro, depois pelas ruas Cícero Soares e Gonçalves Dias; atinge a Rua XV do Conjunto Morada Nova e a Rua Embaixador Frederico Clark, pela qual alcança a Rua Joaquim Paranaguá e a Av. Prefeito Wall Ferraz (BR316), retornando ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Morada Nova",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    },
+    {
+     "nome": "Conjunto Morada Nova I",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 1.0
+    },
+    {
+     "nome": "Conjunto Morada Nova II",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 2.0
+    },
+    {
+     "nome": "Conjunto Morada Nova III",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018). Não aparece na Base CRAS. Verificar se é a mesma “Vila Morada Nova.",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Morro Da Esperança",
+   "cras": [
+    "NORTE III"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 3344,
+   "familias": 260,
+   "descricao": "MORRO DA ESPERANÇA – compreende a área contida no seguinte perímetro: partindo do cruzamento da Rua Alcides Freitas com a Rua 13 de Março, segue, por esta, em sentido norte, até a Alameda Parnaíba; alcança a Rua Primeiro de Maio, por onde prossegue até a Rua Santa Isabel; por esta, alcança a Rua Alexis Diniz e, depois, a Rua 11 de Agosto; por esta e seu prolongamento, atinge o eixo do Rio Poti; seguindo o curso d'água, em direção sul, chega ao alinhamento da Av. Jacob Almendra e, por esta, chega à Rua Alcides Freitas; daí, retorna ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Morros",
+   "cras": [
+    "LESTE I"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 1166,
+   "familias": 147,
+   "descricao": "MORROS – compreende a área contida no seguinte perímetro: começa no encontro da Rua Luiz Lopes Sobrinho com a Av. Presidente Kennedy (PI- 112), seguindo por esta, até a Rua Domingos de Pádua Rego; daí, continua até a Av. Zequinha Freire, pela qual, rumo sul, atinge a Rua Luiz Lopes Sobrinho; retornando ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Mirante dos Morros",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 13.0
+    },
+    {
+     "nome": "Vila da Mutuca",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH). Verificar se é a mesma Vila Mirante dos Morros.",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Noivos",
+   "cras": [
+    "SUDESTE II"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 3734,
+   "familias": 60,
+   "descricao": "NOIVOS - compreende a área contida no seguinte perímetro: partindo do eixo do Rio Poti sob a Ponte Juscelino Kubitschek, segue pela Av. João XXIII até a Rua Professor Pires Gaioso; continua, rumo sul, até a Av. Noronha Almeida, pela qual e respectivo alinhamento, prossegue, em sentido oeste, até o eixo do Rio Poti e, daí, retorna ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila do Céu",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Nossa Senhora Das Graças",
+   "cras": [
+    "SUL IV"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 3964,
+   "familias": 174,
+   "descricao": "NOSSA SENHORA DAS GRAÇAS – compreende a área contida no seguinte perímetro: partindo do entroncamento das avenidas Miguel Rosa, Joaquim Ribeiro e José dos Santos e Silva, segue, por esta, até a Rua São Francisco e, depois, até a Rua Juvêncio Carvalho; daí, prossegue até a Av. Nações Unidas, atingindo, em direção oeste, a Rua 7 de Setembro; continua, por esta, até a Av. Joaquim Ribeiro, por onde, em direção leste, retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Nova Brasília",
+   "cras": [
+    "NORTE II"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 6780,
+   "familias": 1035,
+   "descricao": "NOVA BRASÍLIA – compreende a área contida no seguinte perímetro: partindo do encontro da Rua João Henrique Rebelo com a Rua Rui Barbosa, segue, por esta, até a Rua Angico; atinge a Rua Técnico Joaquim Soares, de onde prossegue até a Alameda Mestre João Isidoro França, pela qual continua, em sentido sul, até a Rua Anísio Pires; por esta, chega à Av. Campo Maior e à Rua João Henrique Rebelo, pela qual retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Pantanal II",
+     "fonte": "Perfil dos Bairros,SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 2.0
+    },
+    {
+     "nome": "Residencial Zilda Arns",
+     "fonte": "Perfil dos Bairros(SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 2.0
+    },
+    {
+     "nome": "Favela da Avenida Campo Maior",
+     "fonte": "PMT -Orçamento Popular 2014/2015. Estende-se até o bairro Parque Alvorada",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Novo Horizonte",
+   "cras": [
+    "SUDESTE I"
+   ],
+   "regional": "SDU Sudeste",
+   "populacao": 10711,
+   "familias": 1504,
+   "descricao": "NOVO HORIZONTE – compreende a área contida no seguinte perímetro: começa no cruzamento da Rua Joaquim Nelson com a Av. Noé Mendes, seguindo por esta até a Rua Desembargador Antônio Santana; daí, continua até a Estrada da Redonda, pela qual atinge a Rua Adão Medeiros Soares; por esta via, segue até a Rua Humberto Carvalho Santos e, depois, até a Rua Joaquim Nelson, retornando ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2019).",
+   "localidades": [
+    {
+     "nome": "Parque Manoel Evangelista",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018). De acordo com os técnicos, são dois diferentes: Loteamento e Residencial. De acordo com PMT - Orçamento Popular 2014/2015 é Parque Manoel Evagenlista",
+     "familias": 3.0
+    },
+    {
+     "nome": "Residencial Francisco Marreirros",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Carlos Falcão/ Vila Coronel Carlos Falcão",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) PMT -Orçamento Popular 2014/2015",
+     "familias": 2.0
+    },
+    {
+     "nome": "Conjunto Novo Horizonte",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 1.0
+    },
+    {
+     "nome": "Loteamento Cidade Verde",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 1.0
+    }
+   ]
+  },
+  {
+   "nome": "Novo Uruguai",
+   "cras": [
+    "LESTE IV"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 416,
+   "familias": 4,
+   "descricao": "NOVO URUGUAI – compreende a área contida no seguinte perímetro: começa no encontro das avenidas Dom Hélder Câmara e Prefeito Hugo Bastos, segue, por esta até a linha de perímetro urbano; depois, pela Av. João XXIII (BR-343), até a Av. Dom Hélder Câmara, retornando ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Residencial Dom Avelar",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 3.0
+    }
+   ]
+  },
+  {
+   "nome": "Olarias",
+   "cras": [
+    "NORTE II"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 1561,
+   "familias": 67,
+   "descricao": "OLARIAS – compreende a área contida no seguinte perímetro: partindo do encontro dos rios Parnaíba e Poti, segue pelo eixo do Rio Poti até o alinhamento da Rua Manoel Aguiar Filho e, depois, pela Rua Francisco Pimentel Cunha até o alinhamento da Rua 4 da Vila Apolônia; por esta rua e respectivo prolongamento, atinge eixo do Rio Parnaíba, retornando ao ponto inicial (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Apolônia",
+     "fonte": "PMT Orçamento Popular 2014/2015 | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH). Estende-se até o bairro São Joaquim",
+     "familias": 8.0
+    }
+   ]
+  },
+  {
+   "nome": "Parque Alvorada",
+   "cras": [
+    "NORTE II"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 5387,
+   "familias": 802,
+   "descricao": "PARQUE ALVORADA – compreende a área contida no seguinte perímetro: partindo do cruzamento das ruas Rui Barbosa e João Henrique Rabelo, prossegue, por esta última, até a Av. Campo Maior, por onde retorna à Rua Rui Barbosa e, daí, até o ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Favela da Avenida Campo Maior",
+     "fonte": "PMT -Orçamento Popular 2014/2015. Estende-se até o bairro Nova Brasília",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Parque Brasil",
+   "cras": [
+    "NORTE I",
+    "NORTE V"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 0,
+   "familias": 249,
+   "descricao": "PARQUE BRASIL (Cidade Industrial)– O bairro Parque Brasil compreende a área contida no seguinte perímetro: começando no eixo do Rio Parnaíba, no alinhamento da Rua Jornalista Ronaldo Michael, segue, por esta, até a Av. Perimetral 2 e, depois, pelas ruas Monte Alto, e Rosana Neres; atinge a Av. Josué Moura Santos; por esta via e seu alinhamento, atinge o Rio Parnaíba, retornando ao ponto inicial. O bairro Parque Brasil foi criado por meio da Lei nº 4.423, de 16 de julho de 2013. A sua pertencia anteriormente ao bairro Santa Rosa e Cidade Industrial (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Parque Brasil I",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 5.0
+    },
+    {
+     "nome": "Vila Parque Brasil II",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 16.0
+    },
+    {
+     "nome": "Vila Parque Brasil III",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 17.0
+    },
+    {
+     "nome": "Vila Parque Brasil IV",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Parque Ideal",
+   "cras": [
+    "SUDESTE II"
+   ],
+   "regional": "SDU Sudeste",
+   "populacao": 12440,
+   "familias": 1550,
+   "descricao": "PARQUE IDEAL – compreende a área contida no seguinte perímetro: partindo do encontro da Rua Joaquim Nelson com a via férrea, continua, por esta, até a Rua Farmacêutico José Pereira Lopes, seguindo-a até a Av. Noé Mendes; por esta chega à Rua Joaquim Nelson, pela qual retorna ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2019).",
+   "localidades": [
+    {
+     "nome": "Parque Naylândia",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Naylândia",
+     "fonte": "PMT -Orçamento Popular 2014/2015 | Habitações Populares - Teresina Geo",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Santa Clara",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018) | Habitações Populares - Teresina Geo",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Wall Ferraz III",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Loteamento Parque Ideal | Vila Parque Ideal I e II",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018) | PMT -Orçamento Popular 2014/2015.",
+     "familias": 0.0
+    },
+    {
+     "nome": "Loteamento Parque Itararé",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 228.0
+    },
+    {
+     "nome": "Vila Parque Itararé",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Dom Helder Câmara",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Ivan Furtado",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Universal",
+     "fonte": "PMT -Orçamento Popular 2014/2015 | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "União",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Parque Jacinta",
+   "cras": [
+    "SUL I"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 1122,
+   "familias": 428,
+   "descricao": "PARQUE JACINTA – compreende a área contida no seguinte perímetro: partindo do encontro das avenidas Alencar Matos e Prefeito Wall Ferraz (BR- 316), segue, por esta, até a via de acesso ao Aterro Sanitário de Teresina (rua sem denominação 02821), pela qual, atinge o alinhamento e, depois, a própria Rua José dos Santos Chaves; daí, retorna à Av. Alencar Matos e, por esta, ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Loteamento Parque Jacinta",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Santa Helena I",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018). Não aparece na Base CRAS.",
+     "familias": 1.0
+    },
+    {
+     "nome": "Vila Santa Helena II",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018). Não aparece na Base CRAS.",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Santa Clara",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018). Não aparece na Base CRAS.",
+     "familias": 422.0
+    }
+   ]
+  },
+  {
+   "nome": "Parque Juliana",
+   "cras": [
+    "SUL I"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 89,
+   "familias": 4,
+   "descricao": "PARQUE JULIANA – O bairro Parque Juliana compreende a área contida no seguinte perímetro: partindo do encontro da Av. Alencar Matos com a Rua José dos Santos Chaves, segue, por esta, até a via de acesso ao Aterro Sanitário de Teresina (rua sem denominação 02821); prossegue, pelo limite oeste do terreno do referido aterro e atinge a linha de perímetro urbano, pela qual chega à Av. Alencar Matos e retorna ao ponto inicial (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Loteamento Maria Eduarda/ Loteamento Parque Maria Eduarda",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) e Doc PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Loteamento Parque Porto Alegre",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018). Equipe do CRAS não (re)conhece. Verificar se é o Loteamento Porto Alegre",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Parque Piauí",
+   "cras": [
+    "SUL III"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 11307,
+   "familias": 743,
+   "descricao": "PARQUE PIAUÍ – Bairro que compreende a área contida no seguinte perímetro: partindo do entroncamento das avenidas Henry Wall de Carvalho (PI-130) e 19 de Outubro, segue, por esta, até a Av. Prefeito Wall Ferraz (BR316); prossegue, na direção sul, até a Av. Walfrido Salmito, pela qual atinge a Av. Henry Wall de Carvalho (PI-130), retornando ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Nova",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018).",
+     "familias": 1.0
+    },
+    {
+     "nome": "Conjunto Parque Piauí",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018).",
+     "familias": 1.0
+    },
+    {
+     "nome": "Conjunto Agespisa",
+     "fonte": "Base CRAS.",
+     "familias": 0.0
+    },
+    {
+     "nome": "Conjunto Cepisa",
+     "fonte": "Base CRAS.",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Parque Poti",
+   "cras": [
+    "SUDESTE III"
+   ],
+   "regional": "SDU Sudeste",
+   "populacao": 4624,
+   "familias": 706,
+   "descricao": "PARQUE POTI – compreende a área contida no seguinte perímetro: partindo do encontro das ruas Desembargador Antonio Santana e Dr. Egídio Mota, segue, por esta, até a Rua Ervitônio Teodoro; por esta e seu alinhamento, até o eixo do Rio Poti, pelo qual atinge o alinhamento da Rua Desembargador Antonio Santana; por este alinhamento e pela própria via, retorna ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2019).",
+   "localidades": [
+    {
+     "nome": "Loteamento Parque Poti",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Cidade Nova",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Sales I e II",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Porto Rico II",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Firmino Filho III",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 3.0
+    },
+    {
+     "nome": "Vila Poti I, II",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Parque Sul",
+   "cras": [
+    "SUL III"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 0,
+   "familias": 339,
+   "descricao": "PARQUE SUL – compreende a área contida no seguinte perímetro: partindo do encontro da Av. Doutor Arquelau Siqueira Amorim com a Rua Raimundo Porfírio Farias, segue, por esta, até a Rua Doutor Aírton Freitas; por esta e via e seu alinhamento atinge a Estrada da Alegria; pela estrada, chega ao alinhamento e depois, à própria Av. Doutor Arquelau Siqueira Amorim; daí, chega à Rua Raimundo Porfírio Farias e retorna ao ponto inicial (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Conjunto Residencial Vamos Ver o Sol",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 47.0
+    },
+    {
+     "nome": "Loteamento Parque Sul",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Conjunto Residencial Portal do Sul",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Alberto Hidd",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Capitão Cícero Romão Batista",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Santo",
+     "fonte": "Base CRAS.",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Parque São João",
+   "cras": [
+    "SUL III"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 2765,
+   "familias": 89,
+   "descricao": "PARQUE SÃO JOÃO – Bairro que compreende a área contida no seguinte perímetro: partindo do entroncamento das avenidas Getúlio Vargas (BR- 316) e Henry Wall de Carvalho (PI- 130), segue, por esta, até o alinhamento da Rua Francisca de Melo Lobo (contorno norte do Conjunto Saci); continua, por este alinhamento e a própria via, até a Rua Cajueiro e, daí, rumo norte, até a Avenida Getúlio Vargas (BR-316), pela qual atinge o ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Parque São João",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Verde Que Te Quero Verde",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Montenegro",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Poliana",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Pedra Miúda",
+   "cras": [
+    "SUL I"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 0,
+   "familias": 670,
+   "descricao": "PEDRA MIÚDA – Bairro criado por meio da Lei nº 4.423, de 16 de julho de 2013. Corresponde à área acrescida à zona urbana pela Lei nº 2.515, de 01 de abril de 1997. Esta área antigamente pertencia ao bairro Esplanada e ao Polo Empresarial Sul (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Residencial Pólo Sul",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 6.0
+    },
+    {
+     "nome": "Residencial Eduardo Costa",
+     "fonte": "Base CRAS. No mapa aparece fora do limite urbano, depois da Pedra Miúda.",
+     "familias": 4.0
+    },
+    {
+     "nome": "Residencial Orgulho do Piauí",
+     "fonte": "Base CRAS. No mapa aparece fora do limite urbano, depois da Pedra Miúda.",
+     "familias": 6.0
+    },
+    {
+     "nome": "Pólo Empresarial Sul",
+     "fonte": "Criado pela Lei Nº 2.515 de 1997. Hoje pertence ao bairro Pedra Miúda.",
+     "familias": 50.0
+    }
+   ]
+  },
+  {
+   "nome": "Pedra Mole",
+   "cras": [
+    "LESTE I"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 10528,
+   "familias": 3530,
+   "descricao": "PEDRA MOLE – Bairro que compreende a área contida no seguinte perímetro: começando no alinhamento da Rua Caçapava, no eixo do Rio Poti, segue pelo citado alinhamento e pela própria via até a linha do perímetro urbano; prossegue, por esta, até o alinhamento da Rua Vereador Joel Loureiro; pela qual, chega à Av. Josué Moura Santos, por esta, atinge o entroncamento com a Rua Ana Maria Gonçalves Silva; pelo prolongamento desta, rumo sul, atinge o eixo do Rio Poti, retornando ao ponto de partida. A Lei nº 4.423, de 16 de julho de 2013, reduziu parte do seu território na parte para a criação do Bairro Cidade Jardim, mas em compensação ampliou-se na área norte com anexação de uma grande parcela do Bairro Tabajaras, sobretudo em 05 grandes vilas na região (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Nova",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH) Existem duas Vilas com o mesmo nome no bairro.",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila do Avião",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | PMT – Orçamento Popular 2014/2015",
+     "familias": 20.0
+    },
+    {
+     "nome": "Residencial Tabajaras",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Parque Anita Ferraz I e II",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 55.0
+    },
+    {
+     "nome": "Vila Meio Norte",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | PMT – Orçamento Popular 2014/2015",
+     "familias": 29.0
+    },
+    {
+     "nome": "Vila Santa Vitória",
+     "fonte": "Perfil dos Bairros(SEMPLAN, 2018) | PMT – Orçamento Popular 2014/2015",
+     "familias": 2.0
+    },
+    {
+     "nome": "Vila Baixada",
+     "fonte": "Base CRAS (São José).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Loteamento HBB",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Maurílio de Araújo Lima",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 1.0
+    },
+    {
+     "nome": "Vila Elmano Férrer",
+     "fonte": "Base CRAS.",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Paraíso",
+     "fonte": "PMT -Orçamento Popular 2014/2015.",
+     "familias": 1.0
+    },
+    {
+     "nome": "Residencial Pedra Mole",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Pio Xii",
+   "cras": [
+    "SUL IV"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 2395,
+   "familias": 84,
+   "descricao": "PIO XII – compreende a área contida no seguinte perímetro: partindo do cruzamento da Rua Murilo Braga com a Av. Barão de Gurguéia, segue, em direção leste, até a Av. Miguel Rosa; daí, pela citada avenida, em sentido sul, chega à Av. Industrial Gil Martins, pela qual prossegue, em sentido oeste, até a Av. Barão de Gurguéia e, por esta, em sentido norte, até o ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Pirajá",
+   "cras": [
+    "NORTE II"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 2898,
+   "familias": 242,
+   "descricao": "PIRAJÁ – compreende a área contida no seguinte perímetro: partindo do alinhamento da Rua Espírito Santo, no eixo do Rio Parnaíba, segue, em direção leste, até a Rua Parnaguá; daí, continua até a Rua Sergipe e, por esta, até a Av. Santos Dumont; atingindo o cruzamento com a Rua Ceará, prossegue, em direção oeste, pela citada rua, até o eixo do Rio Parnaíba, de onde retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Piçarra",
+   "cras": [
+    "SUL IV"
+   ],
+   "regional": "SDU Sul e SDU Centro-Norte",
+   "populacao": 3662,
+   "familias": 279,
+   "descricao": "PIÇARRA – compreende à área contida no seguinte perímetro: partindo do cruzamento das avenidas Miguel Rosa, Joaquim Ribeiro e José dos Santos e Silva, segue, pela Av. Miguel Rosa, até a Rua São Pedro; continua, pela citada rua, até a via férrea, pela qual atinge a Rua Goiás; prossegue, pela mencionada rua, até a Av. Higino Cunha, alcançando a Rua Mato Grosso; continua pela Av. São Raimundo, atingindo a Rua Desembargador José Messias, pela qual segue até a Av. Odilon Araújo; por esta, continua até a Rua Picos, por onde segue até a Av. José dos Santos e Silva e, daí, retorna ao ponta de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Piçarreira",
+   "cras": [
+    "LESTE IV"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 7381,
+   "familias": 845,
+   "descricao": "PIÇARREIRA – compreende a área contida no seguinte perímetro: começando no cruzamento das avenidas João Antonio Leitão e Presidente Kennedy (PI-112), segue, por esta, até a Rua Tio Bentes; depois, Rua Capitão Vanderley e, novamente, Rua Tio Bentes; continua, por esta via e seu prolongamento, até a Av. Maria Antonieta Burlamaqui; atinge a Av. João Antonio Leitão e, daí, retorna ao ponto inicial (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Residencial Parque do Leste",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Piçarreira I",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 438.0
+    },
+    {
+     "nome": "Piçarreira II",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 113.0
+    }
+   ]
+  },
+  {
+   "nome": "Planalto",
+   "cras": [
+    "LESTE IV"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 5543,
+   "familias": 595,
+   "descricao": "PLANALTO – compreende a área contida no seguinte perímetro: começa no cruzamento das avenidas Juiz João Almeida e Homero Castelo Branco, seguindo, por esta, até a Rua Ulisses Marques; daí, alcança a Av. Presidente Kennedy (PI-112); continua até a Rua Desembargador Adalberto Correia Lima e, depois, até a Av. Juiz João Almeida, pela qual retorna ao ponto de partida. O bairro está localizado na área alta da antiga fazenda Ininga e chamava-se Planalto Ininga. Em 1988, com o II Plano Estrutural de Teresina-PET, oficializou-se apenas o nome Planalto (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Porenquanto",
+   "cras": [
+    "NORTE III"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 2285,
+   "familias": 195,
+   "descricao": "PORENQUANTO – compreende a área contida no seguinte perímetro: partindo do cruzamento da Av. Jacob Almendra com a Rua Clodoaldo Freitas, segue, por esta, até a Rua 13 de Março e, daí, até a Rua Alcides Freitas; continua, em sentido leste, até a Av. Jacob Almendra, por esta e por seu alinhamento, até o eixo do Rio Poti; prossegue, pelo curso d'água, em direção sul, até o alinhamento da Rua Juliano Moreira, pela qual atinge a Rua Nina Rodrigues; por esta, alcança a Av Jacob Almendra e, daí, retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Portal Da Alegria",
+   "cras": [
+    "SUL I"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 0,
+   "familias": 2116,
+   "descricao": "PORTAL DA ALEGRIA – criado por meio da Lei nº 4.423, de 16 de julho de 2013 e corresponde à área acrescida à zona urbana pela Lei nº 2.596, de 01 de dezembro de 1997. Área que pertencia ao bairro Esplanada, onde foram construídos os conjuntos habitacionais Portal da Alegria, por meio do PMCMV. Corresponde à área contida pelas ruas Jerusalém e Professora Rosa da Cunha Barros e pela Estrada da Pedra Miúda (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Porto Do Centro",
+   "cras": [
+    "LESTE II"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 6805,
+   "familias": 1051,
+   "descricao": "PORTO DO CENTRO – compreende a área contida no seguinte perímetro: começa no encontro das avenidas Sebastião Leal e Presidente Kennedy (PI- 112), pela qual segue até a Rua Luiz Lopes Sobrinho; percorre esta até a Av. Zequinha Freire; daí, em sentido sul, continua até a Rua Urano e, depois, pela Rua João Pereira Caldas, atinge a Avenida Sebastião Leal e, por esta, retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Poti Velho",
+   "cras": [
+    "NORTE II"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 3730,
+   "familias": 654,
+   "descricao": "POTI VELHO – compreende a área contida no seguinte perímetro: partindo do encontro das ruas Desembargador Vaz da Costa e Manoel Aguiar Filho, segue por esta e seu prolongamento até o eixo do Rio Poti; alcança o alinhamento da Rua Sapucaia; depois, Rua Cedro e Rua Sapucaia novamente; daí, segue até a Rua Jean Lelones e, a seguir, a Alameda Mestre João Isidoro França, por esta atinge a Rua Tomás Rebelo; prossegue até a Alameda Domingos Mafrense e atinge a Rua Desembargador Vaz da Costa, retornando ao ponto inicial (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Primavera",
+   "cras": [
+    "NORTE III"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 9102,
+   "familias": 729,
+   "descricao": "PRIMAVERA – compreende a área contida no seguinte perímetro: partindo do cruzamento da Rua Primeiro de Maio com a Rua Território Fernando de Noronha, segue, por esta, até a Av. Duque de Caxias; atinge a Rua Quilombo de Palmares, de onde prossegue até o eixo do Rio Poti; toma a direção sul até a Rua 11 de Agosto, seguindo até a Rua Alexis Diniz e, a seguir, até a Rua Santa Isabel; por esta, atinge a Rua Primeiro de Maio, por onde retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Conjunto Primavera I Conjunto Primavera II Conjunto Primavera III",
+     "fonte": "Perfil dos Bairros(SEMPLAN, 2018) | Habitações Populares-Teresina Geo",
+     "familias": 140.0
+    },
+    {
+     "nome": "",
+     "fonte": "Perfil dos Bairros(SEMPLAN, 2018) | Habitações Populares-Teresina Geo",
+     "familias": 72.0
+    },
+    {
+     "nome": "",
+     "fonte": "Habitações Populares-Teresina Geo",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Primavera",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Rosa de Luxemburgo Vila Santa Helena Vila Lagoinha",
+     "fonte": "Perfil dos Bairros(SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "",
+     "fonte": "PMT -Orçamento Popular 2014/2015 | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Real Copagre",
+   "cras": [
+    "NORTE III"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 5804,
+   "familias": 547,
+   "descricao": "REAL COPAGRE – compreende a área contida no seguinte perímetro: parte do cruzamento da Rua Primeiro de Maio com a Av. União, pela qual segue, em direção leste, até o encontro com a Av. Duque de Caxias e, por esta, até a Rua Território Fernando de Noronha; prossegue, em sentido oeste, até a Rua Primeiro de Maio e, daí, em sentido norte, até o ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Morro do Diabo",
+     "fonte": "Perfil dos Bairros(SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Nossa Senhora de Nazaré Vila Santa Clara Residencial Novo Israel Vila Real Copagre Vila CIDAPI",
+     "fonte": "Perfil dos Bairros(SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    },
+    {
+     "nome": "",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "",
+     "fonte": "PMT -Orçamento Popular 2014/2015 | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Recanto Das Palmeiras",
+   "cras": [
+    "SUDESTE II"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 989,
+   "familias": 18,
+   "descricao": "RECANTO DAS PALMEIRAS – compreende a área contida no seguinte perímetro: começa no cruzamento da Av. Deputado Paulo Ferraz (BR-343) com a Av. dos Expedicionários, seguindo, por esta, até a Av. João XXIII, por onde prossegue, a oeste, até a Av. Deputado Paulo Ferraz (BR- 343) e, daí, retorna ao ponto inicial (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Redenção",
+   "cras": [
+    "SUL IV"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 3248,
+   "familias": 436,
+   "descricao": "REDENÇÃO – compreende a área contida no seguinte perímetro: partindo do cruzamento das avenidas Miguel Rosa e Industrial Gil Martins, segue, por esta, até a Rua Palmares, por esta, rumo sul, continua até a Av. Getúlio Vargas (BR-343), pela qual, atinge a Av. Miguel Rosa, retornando, então, ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Jerusalém I e II",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH). Também conhecida como Vila Carlota Freitas.",
+     "familias": 12.0
+    },
+    {
+     "nome": "Vila Menino Deus",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Conjunto Redenção",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Redonda",
+   "cras": [
+    "SUDESTE I"
+   ],
+   "regional": "SDU Sudeste",
+   "populacao": 3229,
+   "familias": 16,
+   "descricao": "REDONDA – compreende a área contida no seguinte perímetro: começando no eixo do Rio Poti, no alinhamento da Rua Joaquim Nelson, segue por este alinhamento e pela citada rua, até a Rua Humberto Carvalho Santos; daí, até a Rua Adão Medeiros Soares; depois, por esta, segue até a Estrada da Redonda; depois, pela Rua Desembargador Antonio Santana e seu alinhamento chega ao eixo do Rio Poti, pelo qual retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2019).",
+   "localidades": []
+  },
+  {
+   "nome": "Renascença",
+   "cras": [
+    "SUDESTE III"
+   ],
+   "regional": "SDU Sudeste",
+   "populacao": 12685,
+   "familias": 1130,
+   "descricao": "RENASCENÇA – compreende a área contida no seguinte perímetro: começando no cruzamento das ruas Dr. Egídio Mota e Desembargador Antônio Santana, segue, por esta e pela Rua Farmacêutico José Pereira Lopes, até a via férrea; daí, em direção leste, continua até a Rua Serra Grande, e, depois, pela Rua Ervitônio Teodoro; alcançando a Rua Dr. Egídio Mota retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2019).",
+   "localidades": [
+    {
+     "nome": "Vila Padre Luís/ Vila Padre Luiz ( no doc. PMT -Orçamento Popular 2014/2015 é com \"z\")",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Universal",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Paris Vila Progresso/ No doc PMT -Orçamento Popular 2014/2015 , tem Vila Progresso e Residencial Progresso",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Sol Nascente",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Parque do Sol",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Conjunto Renascença I",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 42.0
+    },
+    {
+     "nome": "Conjunto Renascença II",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 121.0
+    },
+    {
+     "nome": "Conjunto Sol Nascente",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Janete de Moraes Sousa",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Rural",
+   "cras": [
+    "LESTE I",
+    "LESTE V",
+    "NORTE IV",
+    "SUDESTE III",
+    "SUDESTE IV"
+   ],
+   "regional": "SDR",
+   "populacao": 0,
+   "familias": 5923,
+   "descricao": "RURAL – LESTE Densidade: > 50 hab/km² (Plano Diretor de Transporte Rural, 2017)",
+   "localidades": []
+  },
+  {
+   "nome": "Saci",
+   "cras": [
+    "SUL III"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 8190,
+   "familias": 277,
+   "descricao": "SACI - compreende a área contida no seguinte perímetro: partindo do entroncamento da Av. Henry Wall de Carvalho (PI-130) com a Rua General João Henrique Gayoso, segue, por esta e seu prolongamento, até o eixo do Rio Parnaíba, pelo qual atinge o alinhamento da Rua Francisca de Melo Lobo (contorno norte do Conjunto Saci); por esta via e seu prolongamento, alcança a Av. Henry Wall de Carvalho, retornando ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Parque Saci",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH). Estende-se até o bairro Distrito Industrial",
+     "familias": 8.0
+    },
+    {
+     "nome": "Conjunto Velho Monge",
+     "fonte": "Base CRAS",
+     "familias": 1.0
+    },
+    {
+     "nome": "Conjunto Saci",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018). Não aparece na Base CRAS. Verificar se é o mesmo Parque Saci.",
+     "familias": 1.0
+    }
+   ]
+  },
+  {
+   "nome": "Samapi",
+   "cras": [
+    "LESTE IV"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 10772,
+   "familias": 1336,
+   "descricao": "SAMAPI – compreende a área contida no seguinte perímetro: partindo do encontro da Rua Tio Bentes com a Av. Presidente Kennedy (PI-112), segue, por esta, até a Rua Apolo XI e, depois, pela Av. Zequinha Freire até a Av. Maria Antonieta Burlamaqui; daí, pela Rua Tio Bentes; depois Rua Capitão Vanderley e, novamente, Rua Tio Bentes prossegue até a Av. Presidente Kennedy (PI-112), retornando ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Madre Teresa de Calcutá",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | PMT -Orçamento Popular 2014/2015 Vila Madre Teresa de Calcutá I e II",
+     "familias": 13.0
+    },
+    {
+     "nome": "Vila Layane",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": -1.0
+    },
+    {
+     "nome": "Vila Paris",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Soturno",
+     "fonte": "Base CRAS",
+     "familias": 1.0
+    },
+    {
+     "nome": "Loteamento Cidade",
+     "fonte": "Base CRAS",
+     "familias": 6.0
+    },
+    {
+     "nome": "Verde Parque Universitário",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 448.0
+    }
+   ]
+  },
+  {
+   "nome": "Santa Cruz",
+   "cras": [
+    "SUL III",
+    "SUL V"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 20362,
+   "familias": 294,
+   "descricao": "SANTA CRUZ – compreende a área contida no seguinte perímetro: partindo do encontro da Rua Odilon Nunes com a Rua do Telégrafo, segue, por esta, até a Rua Nonato de Oliveira; daí, alcança a Rua 11 de Julho, pela qual, chega à Rua Odilon Nunes, retornando ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Wall Ferraz I",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Bom Jesus Perfil dos Bairros (SEMPLAN, 2018)",
+     "fonte": "",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Santa Cruz",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "São José da Esperança",
+     "fonte": "Aglomerado Subnormal/IBGE* (Perfil dos Bairros,SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Alto Bonito",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Santa Rita",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Planalto Santa Fé",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018). Verificar se é a mesma do Santo Antônio.",
+     "familias": 7.0
+    },
+    {
+     "nome": "Vila Alto da Santa Fé",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Santa Fé",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 15.0
+    },
+    {
+     "nome": "Conjunto Santa Fé",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018). Não aparece na Base CRAS.",
+     "familias": 1.0
+    },
+    {
+     "nome": "Loteamento Jataí",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Loteamento Primavera",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Conjunto Hamilton C. Resende",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018). Não aparece na Base CRAS.",
+     "familias": 0.0
+    },
+    {
+     "nome": "Bom Jardim",
+     "fonte": "Aglomerado Subnormal/IBGE* (Perfil dos Bairros,SEMPLAN, 2018).",
+     "familias": 3.0
+    }
+   ]
+  },
+  {
+   "nome": "Santa Isabel",
+   "cras": [
+    "LESTE IV"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 6675,
+   "familias": 128,
+   "descricao": "SANTA ISABEL – compreende a área contida no seguinte perímetro: começando no entroncamento da Av. João XXIII com a Rua Antonieta Ferraz, segue, por esta, até a Rua Jaime da Silveira; continua até a Av. Aquiles Wall Ferraz; em sentido leste, atinge a Av. Zequinha Freire, pela qual prossegue até a Av. João XXIII e daí, retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Santa Isabel",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | PMT -Orçamento Popular 2014/2015-",
+     "familias": 5.0
+    },
+    {
+     "nome": "Vila União I, II e III",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "",
+     "fonte": "Mapa Rodoviário de Teresina (2013)",
+     "familias": 25.0
+    }
+   ]
+  },
+  {
+   "nome": "Santa Lia",
+   "cras": [
+    "LESTE IV"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 2091,
+   "familias": 270,
+   "descricao": "SANTA LIA – compreende a área contida no seguinte perímetro: começando no cruzamento das avenidas Av. Horácio Ribeiro e Maria Antonieta Burlamaqui, segue, por esta, até a Av. Zequinha Freire, pela qual alcança a Av. Horácio Ribeiro, daí retornando ao ponto inicial (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Amazônia",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Padre Cícero",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 16.0
+    }
+   ]
+  },
+  {
+   "nome": "Santa Luzia",
+   "cras": [
+    "SUL III"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 734,
+   "familias": 191,
+   "descricao": "SANTA LUZIA – compreende a área contida no seguinte perímetro: partindo do eixo do rio Parnaíba, sob a Ponte Engenheiro Alves Noronha, segue, em direção leste, pela Av. Getúlio Vargas (BR- 316), até a Rua Cajueiro; depois, na direção sul, continua até a Rua Francisca de Melo Lobo; por esta e seu prolongamento, até o eixo do Rio Parnaíba, pelo qual retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Santa Luzia",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 3.0
+    },
+    {
+     "nome": "Vila Pulim",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Favela da Rua Canaã",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Parque da Penha",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Favela Montenegro",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Santa Maria",
+   "cras": [
+    "NORTE I",
+    "NORTE V"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 0,
+   "familias": 6044,
+   "descricao": "SANTA MARIA – O bairro Santa Maria compreende a área contida no seguinte perímetro: começando no eixo do Rio Parnaíba, no alinhamento da Rua Brás Honório, segue, por esta, até o contorno do Conjunto Residencial Jacinta Andrade; prossegue, por este contorno, até o limite sul do Residencial Paulo de Tarso; neste alinhamento, atinge a Rua Amadeus Paulo e, daí, rumo norte, chega à Av. Ministro Sérgio Motta; por esta avenida e pela Rua 10 do Loteamento Santa Maria da Codipi, alcança a Rua Chico Conrado; por esta via, segue até a Rua XX do Parque Wall Ferraz; rumo sul, e chega ao contorno leste do Residencial Francisca Trindade; daí, atinge a Rua Jornalista Ronaldo Michael, pela qual e respectivo alinhamento, chega ao eixo do Rio Parnaíba e retorna ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Parque Firmino Filho",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 5.0
+    },
+    {
+     "nome": "Vila Santa Maria das Vassouras",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) e PMT -Orçamento Popular 2014/2015",
+     "familias": 133.0
+    },
+    {
+     "nome": "Loteamento dos Cocais",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Santa Maria da Codipi",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 4456.0
+    },
+    {
+     "nome": "Residencial Francisca Trindade",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 5.0
+    },
+    {
+     "nome": "Parque Wall Ferraz I e II",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 9.0
+    },
+    {
+     "nome": "Residencial Edgar Gayoso I",
+     "fonte": "Base CRAS",
+     "familias": 1.0
+    },
+    {
+     "nome": "Vila dos Torres",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Paulo de Tarso",
+     "fonte": "PMT - Orçamento Popular 2014/2015",
+     "familias": 1.0
+    },
+    {
+     "nome": "Parque Stael Freire",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Santa Rosa",
+   "cras": [
+    "NORTE V"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 4878,
+   "familias": 2460,
+   "descricao": "SANTA ROSA - compreende a área contida no seguinte perímetro: partindo do eixo do Rio Parnaíba, no alinhamento da Av. Josué Moura Santos, segue, por esta, até o limite leste da propriedade Santa Rosa; por este limite, rumo sul, atinge o Rio Poti, pelo qual, chega ao Rio Parnaíba, retornando ao ponto inicial. Esta delimitação passou a vigorar com a Lei nº 4.423/2013, que retirou parte do seu território para a formação dos bairros Alegre e Parque Brasil, a área restante não possui edificações residenciais. Portanto, a população residente em 2010 hoje faz parte dos bairros Alegre e Parque Brasil (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Satélite",
+   "cras": [
+    "LESTE II"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 11606,
+   "familias": 1827,
+   "descricao": "SATÉLITE – compreende a área contida no seguinte perímetro: começando no cruzamento das avenidas Presidente Kennedy (PI-112) e Deputado Sebastião Leal, segue, por esta e pela Rua João Pereira Caldas, até a Rua Urano; daí, alcança a Av. Zequinha Freire, pela qual, rumo sul, chega à Rua Apolo XI, por esta, segue até a Av. Presidente Kennedy (PI-112), retornando ao ponto de partida. Inicialmente o bairro chamava-se Cidade Satélite (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Bandeirante I",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | PMT - Orçamento Popular 2014/2015.",
+     "familias": 136.0
+    },
+    {
+     "nome": "Fraternidade e Moradia",
+     "fonte": "Perfil dos Bairros,SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Fraternidade I e II",
+     "fonte": "PMT - Orçamento Popular 2014/2015",
+     "familias": 4.0
+    },
+    {
+     "nome": "Satélite",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Zoobotânico",
+     "fonte": "PMT - Orçamento Popular 2014/2015 | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Porto do Centro",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 3.0
+    }
+   ]
+  },
+  {
+   "nome": "Socopo",
+   "cras": [
+    "LESTE I"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 1892,
+   "familias": 398,
+   "descricao": "SOCOPO – compreende a área contida no seguinte perímetro: começa no encontro da Rua Domingos de Pádua Rego com a Av. Presidente Kennedy (PI-112), segue, por esta, até a linha do perímetro urbano, pelo qual segue até a Rua Domingos de Pádua Rego e, por esta, retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Nova Socopo",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 8.0
+    },
+    {
+     "nome": "Socopinho",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH).",
+     "familias": 1.0
+    },
+    {
+     "nome": "Vila Coronel Correia Lima",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "São Cristóvão",
+   "cras": [
+    "LESTE IV"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 6592,
+   "familias": 75,
+   "descricao": "SÃO CRISTÓVÃO – compreende a área contida no seguinte perímetro: partindo do entroncamento das avenidas João XXIII e Homero Castelo Branco, segue, por esta, até a Av. Dom Severino, pela qual prossegue, em direção leste, até a Av. Presidente Kennedy (PI-112); daí, em sentido sul, continua até a Av. Senador Área Leão, pela qual alcança a Rua Jaime da Silveira, voltando até encontrar a Rua Antonieta Ferraz; prossegue, por esta, emsentido sul, até a Av. João XXIII e, então, retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "São Joaquim",
+   "cras": [
+    "NORTE II"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 10558,
+   "familias": 1547,
+   "descricao": "SÃO JOAQUIM – compreende a área contida no seguinte perímetro: começando no entroncamento da Rua Rui Barbosa com a Rua Martinelli Cavalca, segue por esta até a Rua José Compasso e, depois, até a Rua Vereador Álvaro Monteiro; desta, continua em linha reta até o eixo do Rio Parnaíba e, daí, em sentido norte, até o alinhamento da Rua 4 da Vila Apolônia; segue por esta e seu prolongamento até a Rua Francisco Pimentel Cunha; daí, no sentido sul, até a Rua Hiroshima e, a seguir, até a Rua Presidente Lincoln; prossegue até a Rua Pantanal, por onde atinge a Rua Rui Barbosa e retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Carlos Feitosa",
+     "fonte": "Perfil dos Bairros(SEMPLAN, 2018) | PMT – Orçamento Popular 2014/2015",
+     "familias": 6.0
+    },
+    {
+     "nome": "Vila Padre Eduardo",
+     "fonte": "Perfil dos Bairros(SEMPLAN, 2018) | PMT – Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Conjunto São Joaquim",
+     "fonte": "PMT – Orçamento Popular 2014/2016",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Apolônia",
+     "fonte": "PMT Orçamento Popular 2014/2015 | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH). Estende-se até o bairro Olarias",
+     "familias": 0.0
+    },
+    {
+     "nome": "",
+     "fonte": "Incluir dentro de taboca. Mapa Rodoviário de Teresina (2013)",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "São João",
+   "cras": [
+    "SUDESTE II"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 8362,
+   "familias": 549,
+   "descricao": "SÃO JOÃO – compreende a área contida no seguinte perímetro: começa no cruzamento da Rua Professor Pires Gaioso com a Av. João XXIII, por onde segue, em direção leste, até a Av. dos Expedicionários; prossegue até a Av. Deputado Paulo Ferraz (BR-343) e alcança a via férrea; continua, por esta, em direção oeste, até o eixo do Rio Poti; segue, por este, até o alinhamento da Av. Noronha Almeida, atingindo a Rua Professor Pires Gaioso, por onde retorna ao ponto inicial (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Divina",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | PMT -Orçamento Popular 2014/2015 Projeto Mandacaru",
+     "familias": 0.0
+    },
+    {
+     "nome": "Loteamento Eldorado",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Loteamento Serse",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    },
+    {
+     "nome": "Conjunto Fraternidade",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila São Judas Tadeu",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "",
+     "fonte": "Mapa Rodoviário de Teresina (2013)",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "São Lourenço",
+   "cras": [
+    "SUL III"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 474,
+   "familias": 9,
+   "descricao": "SÃO LOURENÇO – compreende a área contida no seguinte perímetro: partindo do encontro das ruas Doutor Aírton Freitas e Raimundo Porfírio Farias, segue, por esta até a Rua Cândida da Costa Soares; depois, pelo alinhamento da Rua I do Loteamento Bela Vista São Lourenço, chega à Rua XX do mesmo loteamento; por esta e seu alinhamento alcança o eixo do Rio Poti; pelo rio, atinge a linha de perímetro urbano, segue pela Estrada da Alegria e, depois, pela Rua Doutor Aírton Freitas, retorna ao ponto inicial (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Loteamento Nova Alegria",
+     "fonte": "PMT -Orçamento Popular 2014/2015 Verificar se é o mesmo Conjunto Nova Alegria no Santo Antônio.",
+     "familias": 6.0
+    },
+    {
+     "nome": "Residencial Nova Alegria II",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Vila Verde",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "São Pedro",
+   "cras": [
+    "SUL IV"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 8780,
+   "familias": 851,
+   "descricao": "SÃO PEDRO – compreende a área contida no seguinte perímetro: partindo do cruzamento da Rua Murilo Braga com a Av. Barão de Gurguéia, segue, pela citada avenida, em sentido sul, até o cruzamento da Av. Industrial Gil Martins; continua, em sentido oeste, até o eixo do Rio Parnaíba, por onde prossegue até o alinhamento da Rua Abílio Guimarães; daí, pelo alinhamento e pela própria via, atinge a Av. Pedro Freitas e, depois, a Rua Murilo Braga, retornando ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Nova Parnaíba",
+     "fonte": "PMT - Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Centro Administrativo",
+     "fonte": "Aglomerado Subnormal/IBGE* (Perfil dos Bairros,SEMPLAN, 2018).",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "São Raimundo",
+   "cras": [
+    "SUDESTE II"
+   ],
+   "regional": "SDU Sudeste",
+   "populacao": 777,
+   "familias": 162,
+   "descricao": "SÃO RAIMUNDO – compreende a área contida no seguinte perímetro: partindo do cruzamento da via férrea com a Av. Deputado Paulo Ferraz (BR-343), segue, por esta, até a Rua Jacinto Rufino Macedo, por onde prossegue até o eixo do Rio Poti; daí, continua, em direção norte, até a via férrea, pela qual retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2019).",
+   "localidades": [
+    {
+     "nome": "",
+     "fonte": "Mapa Rodoviário de Teresina (2013)",
+     "familias": 19.0
+    },
+    {
+     "nome": "Vila São Raimundo",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | PMT -Orçamento Popular 2014/2015",
+     "familias": 31.0
+    }
+   ]
+  },
+  {
+   "nome": "São Sebastião",
+   "cras": [
+    "SUDESTE III"
+   ],
+   "regional": "SDU Sudeste",
+   "populacao": 11662,
+   "familias": 1927,
+   "descricao": "SÃO SEBASTIÃO - compreende a área contida no seguinte perímetro: começa no cruzamento das avenidas Noé Mendes e Professor Camillo Filho, pela qual segue até o limite sul do Loteamento Verdecap II; por este limite, segue até o eixo do Rio Poti; pelo rio, segue até o alinhamento e a própria Rua Ervitônio Teodoro; por esta via, atinge a Av. Noé Mendes e retorna ao ponto inicial (Perfil dos Bairros,SEMPLAN, 2019).",
+   "localidades": [
+    {
+     "nome": "Vila Bagdá",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 1.0
+    },
+    {
+     "nome": "Vila Deus Proverá",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Araguaia Perfil dos Bairros (SEMPLAN, 2018) SUDESTE III SDU Sudeste",
+     "fonte": "",
+     "familias": 0.0
+    },
+    {
+     "nome": "Conjunto São Paulo",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 1.0
+    },
+    {
+     "nome": "Conjunto Renascena III/ Conjunto Renascença III",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) / PMT -Orçamento Popular 2014/2015",
+     "familias": 11.0
+    },
+    {
+     "nome": "Loteamento Porto Rico Perfil dos Bairros (SEMPLAN, 2018)",
+     "fonte": "",
+     "familias": 0.0
+    },
+    {
+     "nome": "Loteamento Jardim dos Pássaros",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Novo Milênio",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Anadarai/ Vila Andaraí",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) No doc. PMT -Orçamento Popular 2014/2015 está escrito Andaraí",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Beira Rio",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 2.0
+    },
+    {
+     "nome": "Vila Vitória Regia",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Washigton Feitosa",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 1.0
+    },
+    {
+     "nome": "Conjunto São Sebastião",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Loteamento Sertâozinho",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Loteamento Canaxuê",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Conjunto Todos os Santos",
+     "fonte": "Base CRAS Verificar se é o mesmo Residencial Todos os Santos no bairro de mesmo nome.",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Alto do Muro",
+     "fonte": "Habitações Populares-Teresina Geo",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Tabajaras",
+   "cras": [
+    "LESTE I"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 6871,
+   "familias": 63,
+   "descricao": "TABAJARAS – compreende a área contida no seguinte perímetro: começa no encontro da Av. Presidente Kennedy (PI-112) com a Rua Genoveva, por esta e pelas ruas Santana, Lageada e Alterosas, chega a Rua Vereador Joel Loureiro; por esta e seu prolongamento atinge a linha do perímetro urbano, pela qual prossegue até a Av. Presidente Kennedy e, por esta, retorna ao ponto de partida. A Lei nº 4.423, de 16 de julho de 2013, reduziu parte do seu território para a criação do Bairro Cidade Jardim e a outra grande parcela para a ampliação da área do Bairro Pedra Mole. Hoje a região se restringe a área do clube, do loteamento Aldebaran e de sua vizinhança (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Condomínio Aldebaran Ville",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    },
+    {
+     "nome": "Condomínio Aconchego",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Tabuleta",
+   "cras": [
+    "SUL IV"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 3271,
+   "familias": 260,
+   "descricao": "TABULETA – compreende a área contida no seguinte perímetro: partindo do cruzamento das avenidas Industrial Gil Martins e Miguel Rosa, segue, em direção sul, até a Av. Getúlio Vargas (BR-316), pela qual prossegue, em direção oeste, até o eixo do Rio Parnaíba, sob a Ponte Engenheiro Alves Noronha, continua, daí, pela citado rio, até o alinhamento da Av. Industrial Gil Martins e, por esta retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Residencial Dom Avelar",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Tancredo Neves",
+   "cras": [
+    "SUDESTE I"
+   ],
+   "regional": "SDU Sudeste",
+   "populacao": 3374,
+   "familias": 165,
+   "descricao": "TANCREDO NEVES - compreende a área contida no seguinte perímetro: começa no cruzamento da Av. Deputado Paulo Ferraz (BR-343) com a Rua Desembargador Manoel Felício Pinto, segue, por esta até a Av. Noé Mendes; pelo prolongamento desta, segue até o eixo do Rio Poti; pelo rio, segue até a Ponte Presidente Médici; pela ponte e pela Av. Deputado Paulo Ferraz (BR- 343), retorna ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2019).",
+   "localidades": [
+    {
+     "nome": "Conjunto Tancredo Neves",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Tancredo Neves",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Loteamento Progresso",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Todos Os Santos",
+   "cras": [
+    "SUDESTE III"
+   ],
+   "regional": "SDU Sudeste",
+   "populacao": 1533,
+   "familias": 272,
+   "descricao": "TODOS OS SANTOS – compreende a área contida no seguinte perímetro: começa no cruzamento da via férrea com a Av. Professor Camillo Filho; segue, por esta até a linha de perímetro urbano; daí, prossegue em diversos rumos até encontrar o contorno norte do Loteamento Verdecap I; por este, atinge a Av. Professor Camillo Filho, retornando ao ponto inicial (Perfil dos Bairros, SEMPLAN, 2019).",
+   "localidades": []
+  },
+  {
+   "nome": "Triunfo",
+   "cras": [
+    "SUL III"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 249,
+   "familias": 0,
+   "descricao": "TRIUNFO – compreende a área contida no seguinte perímetro: partindo do entroncamento das avenidas Henry Wall de Carvalho (PI-130) e Getúlio Vargas (BR-316), segue, por esta, até a Av. Prefeito Wall Ferraz (BR316); depois, até a Rua Afonso Pena; continua, rumo oeste, até a Henry Wall de Carvalho (PI-130); daí, retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Três Andares",
+   "cras": [
+    "SUL IV"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 12739,
+   "familias": 1374,
+   "descricao": "TRÊS ANDARES – compreende a área contida no seguinte perímetro: partindo do entroncamento da Rua Palmares com a Av. Industrial Gil Martins, segue, por esta e seu alinhamento, até o eixo do Rio Poti; pelo curso do rio, continua até a Ponte Presidente Médici; pela ponte e pela Av. Getúlio Vargas (BR-343), segue até a Rua Palmares, retornando ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila da Paz",
+     "fonte": "Aglomerado Subnormal/IBGE* (Perfil dos Bairros,SEMPLAN, 2018).",
+     "familias": 30.0
+    },
+    {
+     "nome": "Residencial Júlia Maione",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila São José da Costa Rica",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Uruguai",
+   "cras": [
+    "LESTE IV"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 4776,
+   "familias": 132,
+   "descricao": "URUGUAI - compreende a área contida no seguinte perímetro: começando no cruzamento das avenidas João XXIII (BR-343) e Zequinha Freire, segue, por esta, até a Rua Alvina Fernandes Gameiro, prossegue pela Av. Maria José Marçal, por onde continua até a Av. Dom Hélder Câmara; daí, rumo sul, até a Av. João XXIII (BR-343) retornando ao ponto de partida (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Uruguai",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Santa Joana D’arc",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 4.0
+    },
+    {
+     "nome": "Vila Ladeira do Uruguai",
+     "fonte": "Perfil dos Bairro (SEMPLAN, 2018).",
+     "familias": 5.0
+    },
+    {
+     "nome": "Loteamento Orgmar Monteiro",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 2.0
+    },
+    {
+     "nome": "Loteamento Esplanada do Uruguai",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial O Sonho Não Acabou",
+     "fonte": "PMT -Orçamento Popular 2014/2015",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Vale Do Gavião",
+   "cras": [
+    "LESTE III"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 1507,
+   "familias": 1561,
+   "descricao": "VALE DO GAVIÃO – compreende a área contida no seguinte perímetro: começando no encontro da Rua Luiz Lopes Sobrinho com a Av. Zequinha Freire, segue, por esta, em sentido norte, até a linha do perímetro urbano, pela qual atinge a Rua Luiz Lopes Sobrinho e, por esta, retorna ao ponto de partida (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Vale Quem Tem",
+   "cras": [
+    "LESTE II",
+    "LESTE IV"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 40212,
+   "familias": 605,
+   "descricao": "VALE QUEM TEM – compreende a área contida no seguinte perímetro: partindo da esquina da Rua Alvina Fernandes Gameiro com a Av. Zequinha Freire, segue, pela avenida, até a Rua Onda Verde; por esta e seu alinhamento, atinge a Rua III do Loteamento Juruá; depois pela Rua Doutor Hugo Prado e pelas avenidas Prefeito Hugo Bastos e Dom Elder Câmara, alcança a Av. Maria José Marçal: por esta e pela Rua Galvina Fernandes Gameiro, chega à Av. Zequinha Freire e retorna ao ponto inicial (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Residencial Geovanne Prado",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | PMT - Orçamento Popular 2014/2015.",
+     "familias": 2.0
+    },
+    {
+     "nome": "Residencial Primavera Leste",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Porto Seguro",
+     "fonte": "Habitações Populares-Teresina Geo",
+     "familias": 0.0
+    },
+    {
+     "nome": "Loteamento Juruá",
+     "fonte": "PMT - Orçamento Popular 2014/2015",
+     "familias": 0.0
+    },
+    {
+     "nome": "Residencial Taquari",
+     "fonte": "PMT - Orçamento Popular 2014/2015",
+     "familias": 2.0
+    },
+    {
+     "nome": "Vila do Buraco",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Planalto Uruguai",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 24.0
+    },
+    {
+     "nome": "Parque Governador Mão Santa",
+     "fonte": "PMT -Orçamento Popular 2014/2015 | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 8.0
+    },
+    {
+     "nome": "Vila Teresa Brito",
+     "fonte": "PMT -Orçamento Popular 2014/2015 | Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH). Perfil dos Bairros e no mapa de Habitações Populares, aparece com o nome de Santa Teresinha",
+     "familias": 1.0
+    }
+   ]
+  },
+  {
+   "nome": "Verde Lar",
+   "cras": [
+    "LESTE II",
+    "LESTE III"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 22190,
+   "familias": 828,
+   "descricao": "VERDE LAR – compreende a área contida no seguinte perímetro: partindo do encontro da Av. Zequinha Freire com a Rua Luiz Lopes Sobrinho, segue, por esta até a linha de perímetro urbano;pela linha, alcança o contorno sul do Loteamento Verdelar I, prolongamento da Av. Prefeito Hugo Bastos; daí, segue pela Rua Doutor Hugo Prado e, depois pela Rua III do Loteamento Juruá, atinge o alinhamento e a própria Rua Onda Verde; desta chega à Av. Zequinha Freire e retorna ao ponto inicial Fonte (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Cidade Leste",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | PMT - Orçamento Popular 2014/2015",
+     "familias": 161.0
+    },
+    {
+     "nome": "Vila Verde Lar",
+     "fonte": "Aglomerado Subnormal/IBGE* (Perfil dos Bairros,SEMPLAN, 2018).",
+     "familias": 5.0
+    },
+    {
+     "nome": "Vila Santa Bárbara",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018) | PMT - Orçamento Popular 2014/2015",
+     "familias": 57.0
+    }
+   ]
+  },
+  {
+   "nome": "Verdecap",
+   "cras": [
+    "SUDESTE IV"
+   ],
+   "regional": "SDU Sudeste",
+   "populacao": 1612,
+   "familias": 240,
+   "descricao": "VERDECAP – O bairro Verdecap compreende a parcela urbana do Loteamento Verdecap I (Perfil dos Bairros, SEMPLAN, 2019).",
+   "localidades": [
+    {
+     "nome": "Loteamento Verdecap I",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 22.0
+    },
+    {
+     "nome": "Loteamento Verdecap II Perfil dos Bairros (SEMPLAN, 2018)",
+     "fonte": "",
+     "familias": 54.0
+    },
+    {
+     "nome": "Saco Cheio",
+     "fonte": "Base CRAS-",
+     "familias": 0.0
+    },
+    {
+     "nome": "Loteamento Verdecap III",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 134.0
+    },
+    {
+     "nome": "Conjunto Rodoviário I",
+     "fonte": "Base CRAS",
+     "familias": 1.0
+    },
+    {
+     "nome": "Conjunto Rodoviário II",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Vermelha",
+   "cras": [
+    "SUL IV"
+   ],
+   "regional": "SDU Sul",
+   "populacao": 5659,
+   "familias": 452,
+   "descricao": "VERMELHA – compreende a área contida no seguinte perímetro: partindo do eixo do Rio Parnaíba, no alinhamento da Av. Joaquim Ribeiro, segue, por esta, em direção leste, até a Rua Sete de Setembro; continua, por esta até a Av. Nações Unidas e, daí, pela Av. Miguel Rosa atinge a Rua Murilo Braga; prossegue até a Av. Pedro Freitas e, em sentido norte, chega à Rua Abílio Guimarães, pelo qual e seu alinhamento atinge o eixo do Rio Parnaíba, retornando, por este, ao ponto inicial (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Vila Operária",
+   "cras": [
+    "NORTE II"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 3173,
+   "familias": 145,
+   "descricao": "VILA OPERÁRIA – compreende a área contida no seguinte perímetro: partindo do cruzamento da Alameda Parnaíba com a Av. Santos Dumont, segue, por esta até a Rua Pernambuco; depois pela Rua Area Leão e novamente Rua Pernambuco, continua, em sentido leste, até a Rua Anísio de Abreu, pela qual prossegue, em direção sul, até a Alameda Parnaíba e, daí, retorna ao ponto de partida . (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": []
+  },
+  {
+   "nome": "Vila São Francisco",
+   "cras": [
+    "NORTE III"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 5453,
+   "familias": 616,
+   "descricao": "VILA SÃO FRANCISCO – compreende a área contida no seguinte perímetro: partindo do eixo do Rio Poti, no alinhamento da Rua Amarante, segue, pelo rio, até o alinhamento da Av. Prefeito Freitas Neto (contorno do Conjunto Mocambinho); por esta, atinge, em sequência as ruas Menino Jesus, Algaroba e Iguatu e; chegando à Av. Dr. Antônio Pedreira Martins, segue até a Rua Amarante; por esta e seu alinhamento atinge o eixo do RioPoti, retornando ao ponto de partida. A área ocupada pelo bairro destinava-se á expansão do conjunto José Francisco de Almeida Neto (Mocambinho). No entanto, o local foi invadido, surgindo uma vila, cujos moradores a nomearam de São Francisco. A Cohab providenciou o aforamento do terreno (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila São Francisco Norte",
+     "fonte": "Base CRAS",
+     "familias": 62.0
+    }
+   ]
+  },
+  {
+   "nome": "Zona Rural Norte",
+   "cras": [
+    "LESTE I",
+    "NORTE I",
+    "NORTE IV"
+   ],
+   "regional": "SDR",
+   "populacao": 0,
+   "familias": 1617,
+   "descricao": "RURAL NORTE Densidade: 40 a 49 hab/km² (Plano Diretor de Transporte Rural, 2017)",
+   "localidades": []
+  },
+  {
+   "nome": "Zona Rural Sul",
+   "cras": [
+    "LESTE III",
+    "SUL I",
+    "SUL II"
+   ],
+   "regional": "",
+   "populacao": 0,
+   "familias": 2191,
+   "descricao": "RURAL SUL Densidade: > 39 hab/km² (Plano Diretor de Transporte Rural, 2017)",
+   "localidades": []
+  },
+  {
+   "nome": "Zoobotânico",
+   "cras": [
+    "LESTE I"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 316,
+   "familias": 1,
+   "descricao": "ZOOBOTÂNICO – compreende a área contida no seguinte perímetro: partindo do encontro da Av. Presidente Kennedy (PI-112) com a Rua Ulisses Marques, segue, por esta e seu alinhamento até o eixo do Rio Poti, pelo qual alcança o alinhamento e a própria Rua do Fio e, depois, pela Rua Rafaello Rinaldi, alcança a Av Kennedy, retornando ao ponto inicial (Perfil dos Bairros, SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Loteamento Green Vile",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    },
+    {
+     "nome": "Loteamento Park",
+     "fonte": "Base CRAS",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Água Mineral",
+   "cras": [
+    "NORTE III"
+   ],
+   "regional": "SDU Centro-Norte",
+   "populacao": 12106,
+   "familias": 1612,
+   "descricao": "ÁGUA MINERAL – compreende a área contida no seguinte perímetro: partindo do encontro da Rua Quilombo de Palmares com a Av. Duque de Caxias, segue, por esta, e pela Rua Emanuel Liarth, até o limite do terreno da EMBRAPA; daí, continua até o eixo do Rio Poti, por onde atinge o alinhamento da Rua Quilombo de Palmares e, retorna ao ponto de origem (Perfil dos Bairros,SEMPLAN, 2018).",
+   "localidades": [
+    {
+     "nome": "Vila Cristalina",
+     "fonte": "Vila/ Favela/ Parque/ Residencial (Perfil dos Bairros,SEMPLAN, 2018)",
+     "familias": 20.0
+    },
+    {
+     "nome": "Vila Caça e Pesca",
+     "fonte": "Vila/ Favela/ Parque/ Residencial (Perfil dos Bairros,SEMPLAN, 2018)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Risoleta Neves",
+     "fonte": "Vila/ Favela/ Parque/ Residencial (Perfil dos Bairros,SEMPLAN, 2018)",
+     "familias": 68.0
+    },
+    {
+     "nome": "Vila Wall Ferraz",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Wall Ferraz II",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila CERMAP",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila João de Deus",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    },
+    {
+     "nome": "Vila Trindade",
+     "fonte": "Mapeamento do Plano Municipal de Regularização Fundiária (SEMDUH)",
+     "familias": 0.0
+    }
+   ]
+  },
+  {
+   "nome": "Árvores Verdes",
+   "cras": [
+    "LESTE III"
+   ],
+   "regional": "SDU Leste",
+   "populacao": 0,
+   "familias": 111,
+   "descricao": "ÁRVORES VERDES – Bairro criado por meio da Lei nº 4.423, de 16 de julho de 2013, e revoga a Lei Complementar Nº 3.789, de 18 de julho de 2008 (Perfil dos Bairros,SEMPLAN, 2018). Na base CECAD é registrado como Árvores Verdes e como Povoado Árvores Verdes",
+   "localidades": [
+    {
+     "nome": "Conjunto Árvores Verdes",
+     "fonte": "Perfil dos Bairros (SEMPLAN, 2018)",
+     "familias": 0.0
+    }
+   ]
+  }
+ ],
+ "unidades": [
+  {
+   "tipo": "CRAS",
+   "nome": "CRAS Norte I",
+   "endereco": "Rua Maria Veneranda, 5639, Parque Wall Ferraz (por trás da Escola Marista)",
+   "telefone": "(86) 99541-3482",
+   "email": "crasnortei@hotmail.com",
+   "id": "NORTE I"
+  },
+  {
+   "tipo": "CRAS",
+   "nome": "CRAS Norte II",
+   "endereco": "Rua Teodoro Castelo Branco, s/n - Mafrense (próximo à praça do Mafrense)",
+   "telefone": "(86) 99413-8971",
+   "email": "crasnorteiithe@hotmail.com",
+   "id": "NORTE II"
+  },
+  {
+   "tipo": "CRAS",
+   "nome": "CRAS Norte III",
+   "endereco": "Rua Bárbara de Menezes, 5865, Vila São Francisco Norte (próximo à horta comunitária)",
+   "telefone": "(86) 99535-5559",
+   "email": "teresinacrasnorteIII@hotmail.com",
+   "id": "NORTE III"
+  },
+  {
+   "tipo": "CRAS",
+   "nome": "CRAS Norte IV",
+   "endereco": "Povoado Santa Luz, S/N, Teresina – Piauí. Ponto de referência: UBS Guiomar Carvalho",
+   "telefone": "(86) 99543-4900",
+   "email": "crasnorte4@hotmail.com",
+   "id": "NORTE IV"
+  },
+  {
+   "tipo": "CRAS",
+   "nome": "CRAS Norte V",
+   "endereco": "Rua Ministro Sérgio Mota, S/N, Parque Stael, (próximo à praça do CEU Norte)",
+   "telefone": "(86) 99511-2151",
+   "email": "crasnortevthe@hotmail.com",
+   "id": "NORTE V"
+  },
+  {
+   "tipo": "CRAS",
+   "nome": "CRAS Sudeste I",
+   "endereco": "Rua Bernardo da Paz, S/N, Extrema (próximo à UPA Renascença)",
+   "telefone": "3215 7648 / (86) 99404-8849",
+   "email": "crassudeste1@hotmail.com",
+   "id": "SUDESTE I"
+  },
+  {
+   "tipo": "CRAS",
+   "nome": "CRAS Sudeste II",
+   "endereco": "Rua 09, nº 2539 – Dirceu I (próximo ao 8º Distrito)",
+   "telefone": "3236 2626 / (86)99511-9832",
+   "email": "crassudeste2@hotmail.com",
+   "id": "SUDESTE II"
+  },
+  {
+   "tipo": "CRAS",
+   "nome": "CRAS Sudeste III",
+   "endereco": "Rua Canastra,2714, Monte Horebe",
+   "telefone": "3237-4191/(86)99520-9875",
+   "email": "crassudeste3@hotmail.com",
+   "id": "SUDESTE III"
+  },
+  {
+   "tipo": "CRAS",
+   "nome": "CRAS Sudeste IV",
+   "endereco": "Estrada da Usina Santana, Rui Luís Vieira, Q10A, Casa 32, Residencial Deus Quer - Bom princípio (próximo ao campo de futebol DEUS QUER)",
+   "telefone": "3235 9800/(86)99553-9197",
+   "email": "crassudeste4@outlook.com",
+   "id": "SUDESTE IV"
+  },
+  {
+   "tipo": "CRAS",
+   "nome": "CRAS Leste I",
+   "endereco": "Rua Timorante Nº 8371, Parque Anita Ferraz - Cidade Jardim (próximo ao campo de futebol)",
+   "telefone": "3215-9215/(86)99400-8538",
+   "email": "crasleste_1@hotmail.com",
+   "id": "LESTE I"
+  },
+  {
+   "tipo": "CRAS",
+   "nome": "CRAS Leste II",
+   "endereco": "Conjunto Taquari, QD Casa 31 - Bairro Vale Quem Tem",
+   "telefone": "3231-4211/3215-9333",
+   "email": "crasleste02@gmail.com",
+   "id": "LESTE II"
+  },
+  {
+   "tipo": "CRAS",
+   "nome": "CRAS Leste III",
+   "endereco": "Rua Missionária Lourdes Vaz, Nº 6560- Casa 17, Vale do Gavião",
+   "telefone": "3234-5573/(86)99518-3722",
+   "email": "craslesteIII@hotmail.com",
+   "id": "LESTE III"
+  },
+  {
+   "tipo": "CRAS",
+   "nome": "CRAS Leste IV",
+   "endereco": "Avenida João Antônio Leitão, Nº 3591, Piçarreira I",
+   "telefone": "3233-7101/(86)99519-0796",
+   "email": "crasleste4@hotmail.com",
+   "id": "LESTE IV"
+  },
+  {
+   "tipo": "CRAS",
+   "nome": "CRAS Leste V",
+   "endereco": "PI 113, Km 01 (ao lado da Creche Anália Franco) Estaca Zero",
+   "telefone": "3231- 2610/(86)99519-8847",
+   "email": "crasleste5@yahoo.com.br",
+   "id": "LESTE V"
+  },
+  {
+   "tipo": "CRAS",
+   "nome": "CRAS Sul I",
+   "endereco": "Rua José Miguel Haddad, S/N, Conjunto Portal da Alegria- Porto Alegre (próximo à praça do CEU)",
+   "telefone": "(86) 99403-1639",
+   "email": "crassul1@gmail.com",
+   "id": "SUL I"
+  },
+  {
+   "tipo": "CRAS",
+   "nome": "CRAS Sul II",
+   "endereco": "Av. Santa Madre Paulina, Nº 2250, Parque Eliane - Vila Irmã Dulce",
+   "telefone": "(86) 99563-1727",
+   "email": "crassul02@hotmail.com",
+   "id": "SUL II"
+  },
+  {
+   "tipo": "CRAS",
+   "nome": "CRAS Sul III",
+   "endereco": "Rua 63, Nº 2050, Promorar (por trás do Hospital do Promorar)",
+   "telefone": "(86) 99498-8518",
+   "email": "cras_sul3@hotmail.com",
+   "id": "SUL III"
+  },
+  {
+   "tipo": "CRAS",
+   "nome": "CRAS Sul IV",
+   "endereco": "Rua São Raimundo S/N, Redenção (ao lado do Centro de Formação)",
+   "telefone": "(86) 99543-8566",
+   "email": "crassul4@hotmail.com",
+   "id": "SUL IV"
+  },
+  {
+   "tipo": "CRAS",
+   "nome": "CRAS SUL V",
+   "endereco": "Rua 05, nº 9211 – Conj. Jatobá II – Angelim II",
+   "telefone": "(86) 99560-5389",
+   "email": "crassulV@hotmail.com",
+   "id": "SUL V"
+  },
+  {
+   "tipo": "CREAS",
+   "nome": "CREAS NORTE",
+   "endereco": "Rua Dr. Área Leão, Nº 752, Centro/Norte",
+   "telefone": "(86) 99509-1891",
+   "email": "creasnortethe@gmail.com",
+   "id": "CREAS NORTE"
+  },
+  {
+   "tipo": "CREAS",
+   "nome": "CREAS LESTE",
+   "endereco": "Rua Dr. José Auto de Abreu, Nº 3660 Bairro Morada do Sol",
+   "telefone": "(86) 99573-9281",
+   "email": "creas2teresina@yahoo.com",
+   "id": "CREAS LESTE"
+  },
+  {
+   "tipo": "CREAS",
+   "nome": "CREAS SUL",
+   "endereco": "Rua João Virgílio, Nº 1414, Vermelha.",
+   "telefone": "(86) 99516-7820",
+   "email": "creassulthesul@gmail.com",
+   "id": "CREAS SUL"
+  },
+  {
+   "tipo": "CREAS",
+   "nome": "CREAS SUDESTE",
+   "endereco": "Rua Martinho de Sena Rosa,3978, Conjunto Dirceu Arcoverde II, Bairro Itararé.",
+   "telefone": "86 99540-8538",
+   "email": "creas_sudeste@hotmail.com",
+   "id": "CREAS SUDESTE"
+  }
+ ],
+ "centros": [
+  {
+   "nome": "Associação Palotina para Educação e Cidadania (APEC)",
+   "cras": "NORTE I",
+   "endereco": "Rua Lourival Mesquita, 1998, CEP 64011-430",
+   "bairro": "Santa Maria da Codipi",
+   "ponto_referencia": "",
+   "telefone": "",
+   "email": "apecteresina@gmail.com",
+   "grupos": "5 grupos",
+   "publico": "crianças, adolescentes e adultos",
+   "parceria": "",
+   "id": 0
+  },
+  {
+   "nome": "Centro de Convivência Saber Viver",
+   "cras": "NORTE II",
+   "endereco": "Rua Antônio Pedro, s/n",
+   "bairro": "Matadouro",
+   "ponto_referencia": "Centro de Zoonoses",
+   "telefone": "3213-9611",
+   "email": "scfv.saberviver@gmail.com",
+   "grupos": "11 grupos",
+   "publico": "crianças e adolescentes",
+   "parceria": "FUNACI",
+   "id": 1
+  },
+  {
+   "nome": "Centro de Convivência Marly Sarney",
+   "cras": "NORTE II",
+   "endereco": "Rua Jônatas Batista, 1159",
+   "bairro": "Centro Norte",
+   "ponto_referencia": "Ginásio Verdão",
+   "telefone": "3222-4728",
+   "email": "scfv.marlysarney@gmail.com",
+   "grupos": "2 grupos",
+   "publico": "idosos",
+   "parceria": "",
+   "id": 2
+  },
+  {
+   "nome": "Centro de Convivência Novos Meninos e Meninas",
+   "cras": "NORTE II",
+   "endereco": "Rua Arlindo Nogueira, 80, CEP 64001-100",
+   "bairro": "Centro",
+   "ponto_referencia": "",
+   "telefone": "3215-9318",
+   "email": "centrodeconvivencianovosmeninos@hotmail.com",
+   "grupos": "6 grupos",
+   "publico": "crianças e adolescentes",
+   "parceria": "ASA",
+   "id": 3
+  },
+  {
+   "nome": "Centro de Convivência João Nunes Maia",
+   "cras": "SUL I",
+   "endereco": "Rua Inácio Costa Filho, 4059, Quadra 145 B",
+   "bairro": "Santo Antônio",
+   "ponto_referencia": "",
+   "telefone": "",
+   "email": "evanygomes@gmail.com; ledajoaonunesmaia@gmail.com",
+   "grupos": "11 grupos",
+   "publico": "crianças, adolescentes e adultos",
+   "parceria": "parceria",
+   "id": 4
+  },
+  {
+   "nome": "Centro da Juventude Santa Cabrini",
+   "cras": "SUL II",
+   "endereco": "Rua São Valentino, 7790",
+   "bairro": "Vila Irmã Dulce - Angelim",
+   "ponto_referencia": "",
+   "telefone": "3229-7108",
+   "email": "santacabriniequipe@outlook.com",
+   "grupos": "8 grupos",
+   "publico": "crianças e adolescentes",
+   "parceria": "Madre Cabrini",
+   "id": 5
+  },
+  {
+   "nome": "Centro de Convivência Sílvio Bruno de Azevedo Dourado",
+   "cras": "SUL IV",
+   "endereco": "Rua Venezuela, 1838",
+   "bairro": "Cidade Nova",
+   "ponto_referencia": "",
+   "telefone": "",
+   "email": "ccsilviobruno2@gmail.com",
+   "grupos": "6 grupos",
+   "publico": "crianças, adolescentes, adultos e idosos",
+   "parceria": "Cajuína",
+   "id": 6
+  },
+  {
+   "nome": "Centro de Convivência Casa de Zabelê",
+   "cras": "SUL IV",
+   "endereco": "Avenida Pedro Freitas, s/n",
+   "bairro": "Vermelha",
+   "ponto_referencia": "",
+   "telefone": "3215-9320",
+   "email": "casadezabele@uol.com.br",
+   "grupos": "5 grupos",
+   "publico": "crianças e adolescentes",
+   "parceria": "ASA",
+   "id": 7
+  },
+  {
+   "nome": "Centro de Convivência Jatobá",
+   "cras": "SUL V",
+   "endereco": "Avenida Jatobá, Conjunto Jatobá, nº 9211, CEP 64034-810",
+   "bairro": "Angelim I",
+   "ponto_referencia": "",
+   "telefone": "",
+   "email": "centrodoidosojatoba@gmail.com",
+   "grupos": "6 grupos",
+   "publico": "idosos",
+   "parceria": "Cajuína",
+   "id": 8
+  },
+  {
+   "nome": "Centro de Convivência Padre Humberto Pietrogrande",
+   "cras": "LESTE I",
+   "endereco": "Rua Salitre, 7286",
+   "bairro": "Cidade Jardim",
+   "ponto_referencia": "",
+   "telefone": "3234-5096",
+   "email": "CCFVpehumberto2@outlook.com",
+   "grupos": "9 grupos",
+   "publico": "crianças e adolescentes",
+   "parceria": "APEC",
+   "id": 9
+  },
+  {
+   "nome": "Centro de Convivência Integrar (crianças e adolescentes)",
+   "cras": "LESTE IV",
+   "endereco": "Rua Marcos Parente, 1515",
+   "bairro": "Fátima",
+   "ponto_referencia": "Igreja do Alto da Graça",
+   "telefone": "3303-1194",
+   "email": "servicointegrar@gmail.com",
+   "grupos": "5 grupos",
+   "publico": "crianças e adolescentes",
+   "parceria": "ASA",
+   "id": 10
+  },
+  {
+   "nome": "Centro de Convivência Integrar (idosos)",
+   "cras": "LESTE IV",
+   "endereco": "Av. Nossa Senhora de Fátima, Praça Dom Avelar, s/nº, CEP 64048-180",
+   "bairro": "Fátima",
+   "ponto_referencia": "",
+   "telefone": "3303-1194",
+   "email": "servicointegrar@gmail.com",
+   "grupos": "4 grupos",
+   "publico": "idosos",
+   "parceria": "ASA",
+   "id": 11
+  },
+  {
+   "nome": "Centro de Convivência Cajueiro",
+   "cras": "LESTE IV",
+   "endereco": "Rua Guarulhos, s/n, Parque Mão Santa, CEP 64057-150",
+   "bairro": "Vale Quem Tem",
+   "ponto_referencia": "CMEI Parque Mão Santa",
+   "telefone": "3235-2451",
+   "email": "centroconvivenciacajueiro@gmail.com",
+   "grupos": "4 grupos",
+   "publico": "crianças, adultos e idosos",
+   "parceria": "",
+   "id": 12
+  }
+ ]
+}

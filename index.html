@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#0e5a66">
+<meta name="description" content="Território em Rede: apoio matricial e territorial. Localize o território do usuário, monte o PTS e registre o apoio matricial.">
+<meta name="robots" content="noindex, nofollow">
+<title>Território em Rede</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 36 36'%3E%3Crect width='36' height='36' rx='10' fill='%230e5a66'/%3E%3Cpath d='M18 11 11 24M18 11l7 13M11 24h14' stroke='%23fff' stroke-width='2' stroke-linecap='round'/%3E%3Cg fill='%23fff'%3E%3Ccircle cx='18' cy='11' r='3.2'/%3E%3Ccircle cx='11' cy='24' r='3.2'/%3E%3Ccircle cx='25' cy='24' r='3.2'/%3E%3C/g%3E%3C/svg%3E">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+<link rel="stylesheet" href="css/style.css?v=2">
+</head>
+<body>
+<a class="skip" href="#main">Ir para o conteúdo</a>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="i-home" viewBox="0 0 24 24"><path d="M3 11 12 3l9 8M5 9.5V21h14V9.5"/></symbol>
+  <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></symbol>
+  <symbol id="i-map" viewBox="0 0 24 24"><path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2-6-2zM9 4v14M15 6v14"/></symbol>
+  <symbol id="i-clip" viewBox="0 0 24 24"><path d="M9 3h6v3H9zM6 5H5v16h14V5h-1M9 12h6M9 16h4"/></symbol>
+  <symbol id="i-users" viewBox="0 0 24 24"><circle cx="9" cy="8" r="3"/><path d="M3 20c0-3.3 2.7-6 6-6s6 2.7 6 6"/><circle cx="17" cy="9" r="2.5"/><path d="M17 14c2.5 0 4 2 4 5"/></symbol>
+  <symbol id="i-db" viewBox="0 0 24 24"><path d="M4 6c0-1.7 3.6-3 8-3s8 1.3 8 3-3.6 3-8 3-8-1.3-8-3zM4 6v6c0 1.7 3.6 3 8 3s8-1.3 8-3V6M4 12v6c0 1.7 3.6 3 8 3s8-1.3 8-3v-6"/></symbol>
+  <symbol id="i-menu" viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h16"/></symbol>
+  <symbol id="i-print" viewBox="0 0 24 24"><path d="M7 9V3h10v6M7 17H4v-7h16v7h-3M7 14h10v7H7z"/></symbol>
+  <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+  <symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12.5 4.5 4.5L19 7.5"/></symbol>
+  <symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8v.01"/></symbol>
+  <symbol id="i-alert" viewBox="0 0 24 24"><path d="M12 3 2 20h20L12 3zM12 10v4M12 17v.01"/></symbol>
+  <symbol id="i-trash" viewBox="0 0 24 24"><path d="M4 7h16M9 7V4h6v3M6 7l1 14h10l1-14"/></symbol>
+  <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></symbol>
+  <symbol id="i-save" viewBox="0 0 24 24"><path d="M5 3h12l3 3v15H5zM8 3v6h8V3M8 21v-7h8v7"/></symbol>
+  <symbol id="i-hourglass" viewBox="0 0 24 24"><path d="M6 3h12M6 21h12M7 3c0 5 5 6 5 9s-5 4-5 9M17 3c0 5-5 6-5 9s5 4 5 9"/></symbol>
+  <symbol id="i-folder" viewBox="0 0 24 24"><path d="M3 6h7l2 2h9v11H3z"/></symbol>
+  <symbol id="i-pin" viewBox="0 0 24 24"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></symbol>
+  <symbol id="i-download" viewBox="0 0 24 24"><path d="M12 3v12M7 10l5 5 5-5M5 21h14"/></symbol>
+  <symbol id="i-upload" viewBox="0 0 24 24"><path d="M12 15V3M7 8l5-5 5 5M5 21h14"/></symbol>
+</svg>
+
+<div class="app" id="app">
+  <header class="hd">
+    <button class="btn btn-t burger" id="burger" aria-label="Abrir menu" aria-controls="menu" aria-expanded="false"><svg class="ico" aria-hidden="true"><use href="#i-menu"/></svg></button>
+    <a class="brand" href="#/inicio">
+      <svg class="logo" viewBox="0 0 36 36" aria-hidden="true"><rect width="36" height="36" rx="10" fill="currentColor"/><path d="M18 11 11 24M18 11l7 13M11 24h14" stroke="#fff" stroke-width="2" stroke-linecap="round" fill="none"/><g fill="#fff"><circle cx="18" cy="11" r="3.2"/><circle cx="11" cy="24" r="3.2"/><circle cx="25" cy="24" r="3.2"/></g></svg>
+      <span><b>Território em Rede</b><small>Apoio matricial e territorial · Teresina-PI</small></span>
+    </a>
+    <div class="hd-r"><span class="tag warn">protótipo</span><span class="hd-nota">Dados salvos neste navegador</span></div>
+  </header>
+
+  <nav class="mn" id="menu" aria-label="Menu principal">
+    <a href="#/inicio" data-v="inicio"><svg class="ico" aria-hidden="true"><use href="#i-home"/></svg>Painel geral</a>
+    <h6>Território</h6>
+    <a href="#/localizar" data-v="localizar"><svg class="ico" aria-hidden="true"><use href="#i-search"/></svg>Localizar</a>
+    <a href="#/mapa" data-v="mapa"><svg class="ico" aria-hidden="true"><use href="#i-map"/></svg>Mapa</a>
+    <h6>Cuidado</h6>
+    <a href="#/pts" data-v="pts"><svg class="ico" aria-hidden="true"><use href="#i-clip"/></svg>PTS <em id="badge-pts" hidden>0</em></a>
+    <a href="#/matricial" data-v="matricial"><svg class="ico" aria-hidden="true"><use href="#i-users"/></svg>Apoio matricial</a>
+    <h6>Administração</h6>
+    <a href="#/dados" data-v="dados"><svg class="ico" aria-hidden="true"><use href="#i-db"/></svg>Dados e backup</a>
+  </nav>
+  <div class="veil" id="veil"></div>
+
+  <main class="ct" id="main" tabindex="-1">
+    <noscript><div class="pn"><div class="pn-b">Este sistema precisa de JavaScript para funcionar.</div></div></noscript>
+    <div class="pn"><div class="pn-b" role="status">Carregando…</div></div>
+  </main>
+
+  <footer class="ft">
+    <span><b>Território em Rede</b> · Rede de Atenção Psicossocial</span>
+    <span>Use somente dados fictícios. Registros apenas neste navegador (LGPD). Estrutura de navegação inspirada no SGTR (CAPS AD), de Victor Kauan.</span>
+  </footer>
+</div>
+
+<div class="toasts" id="toasts" aria-live="polite"></div>
+<dialog id="dlg" aria-labelledby="dlg-t">
+  <form method="dialog">
+    <h2 id="dlg-t"></h2>
+    <p id="dlg-p"></p>
+    <div class="acts"><button class="btn btn-s" value="no">Cancelar</button><button class="btn btn-p" value="yes" id="dlg-ok"></button></div>
+  </form>
+</dialog>
+
+<script type="module" src="js/main.js?v=2"></script>
+</body>
+</html>
